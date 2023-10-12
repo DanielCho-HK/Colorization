@@ -10,3 +10,11 @@ This project is associated with our survey paper which comprehensively contextua
 <img src='flag.png' align="center" width=30> **Bridge Between Computer Graphics and Vision: A Survey of Colorization [[Paper](https://arxiv.org/abs/2112.13592)]  [[Project](https://fnzhan.com/Generative-AI/)]**  <br>
 [Yu Cao](https://scholar.google.com/citations?user=jkEWQIYAAAAJ&hl=zh-CN), [Xin Duan](https://www.linkedin.com/in/xin-duan-4a188a212/?originalSubdomain=hk) <br>
 *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024*
+
+
+## Video Colorization Methods
+
+**Switchable Temporal Propagation Network**<br>
+*Sifei Liu, Guangyu Zhong, Shalini De Mello, Jinwei Gu, Varun Jampani, Ming-Hsuan Yang, and Jan Kautz*<br>
+ECCV 2018
+[[Paper](https://arxiv.org/abs/1804.08758)]
