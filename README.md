@@ -29,7 +29,7 @@ Full name of Journal or Conference
 ## Related Surveys
 
 **Image Colorization: A Survey and Dataset** <br>
-*Saeed Anwar, Muhammad Tahir, Chongyi Li, Ajmal Mian, Fahad Shahbaz Khan and Abdul Wahab Muzaffar*
+*Saeed Anwar, Muhammad Tahir, Chongyi Li, Ajmal Mian, Fahad Shahbaz Khan and Abdul Wahab Muzaffar* <br>
 2020 Arxiv
 [[Paper](https://arxiv.org/abs/2008.10774)]
 
