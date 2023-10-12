@@ -138,6 +138,8 @@ Full name of Journal or Conference
 
 **The Animation Transformer: Visual Correspondence via Segment Matching** <br>
 *Evan Casey, V ́ıctor Pe ́rez and Zhuoru Li* <br>
+2021 International Conference on Computer Vision
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Casey_The_Animation_Transformer_Visual_Correspondence_via_Segment_Matching_ICCV_2021_paper.html)]
 
 
 
