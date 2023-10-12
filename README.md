@@ -43,6 +43,59 @@ Full name of Journal or Conference
 2022 Visual Informatics
 [[Paper](https://www.sciencedirect.com/science/article/pii/S2468502X22000389)]
 
+
+## Text-hint Image Colorization
+
+**Language-Based Image Editing with Recurrent Attentive Models** <br>
+*Jianbo Chen, Yelong Shen, Jianfeng Gao, Jingjing Liu, and Xiaodong Liu* <br>
+2018 IEEE/CVF Computer Vision and Pattern Recognition Conference
+[[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Language-Based_Image_Editing_CVPR_2018_paper.pdf)]
+
+**Coloring with Words: Guiding Image Colorization Through Text-based Palette Generation** <br>
+*Hyojin Bahng, Seungjoo Yoo, Wonwoong Cho, David Keetae Park, Ziming Wu, Xiaojuan Ma, and Jaegul Choo* <br>
+2018 European Conference on Computer Vision
+[[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Hyojin_Bahng_Coloring_with_Words_ECCV_2018_paper.pdf)]
+
+**Learning to Color from Language** <br>
+*Varun Manjunatha, Mohit Iyyer, Jordan Boyd-Graber, and Larry Davis* <br>
+2018 Annual Conference of the North American Chapter of the Association for Computational Linguistics
+[[Paper](https://aclanthology.org/N18-2120/)]
+
+**Tag2Pix: Line Art Colorization Using Text Tag With SECat and Changing Loss** <br>
+*Hyunsu Kim, Ho Young Jhoo, Eunhyeok Park, and Sungjoo Yoo* <br>
+2019 International Conference on Computer Vision
+[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Kim_Tag2Pix_Line_Art_Colorization_Using_Text_Tag_With_SECat_and_ICCV_2019_paper.pdf)]
+
+**Language-based Colorization of Scene Sketches** <br>
+*Changqing Zou,  Haoran Mo,  Chengying Gao,  Ruofei Du, and  Hongbo Fu* <br>
+2019 ACM Transactions on Graphics
+[[Paper](https://dl.acm.org/doi/10.1145/3355089.3356561)]
+
+**Line Art Colorization Based on Explicit Region Segmentation** <br>
+*Ruizhi Cao, Haoran Mo, and Chengying Gao* <br>
+2021 Computer Graphics Forum
+[[Paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14396)]
+
+**L-CoDe: Language-based Colorization using Color-object Decoupled Conditions** <br>
+*Shuchen Weng, Hao Wu, Zheng Chang, Jiajun Tang, Si Li, and Boxin Shi* <br>
+2022 Proceedings of the AAAI Conference on Artificial Intelligence
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20170)]
+
+**L-CoDer: Language-based Colorization with Color-object Decoupling Transformer** <br>
+*Zheng Chang, Shuchen Weng, Yu Li, Si Li, and Boxin Shi* <br>
+2022 European Conference on Computer Vision
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136780352.pdf)]
+
+**L-CoIns: Language-based Colorization with Instance Awareness** <br>
+*Zheng Chang, Shuchen Weng, Peixuan Zhang, Yu Li, Si Li, and Boxin Shi* <br>
+2023 IEEE/CVF Computer Vision and Pattern Recognition Conference
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Chang_L-CoIns_Language-Based_Colorization_With_Instance_Awareness_CVPR_2023_paper.pdf)]
+
+**L-CAD: Language-based Colorization with Any-level Descriptions** <br>
+*Zheng Chang, Shuchen Weng, Peixuan Zhang, Yu Li, Si Li, and Boxin Shi* <br>
+2023 Arxiv
+[[Paper](https://arxiv.org/abs/2305.15217)]
+
  
 ## Video Colorization Methods
 
