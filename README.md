@@ -8,26 +8,31 @@ This project is associated with our survey paper which comprehensively contextua
 
 
 **Bridge Between Computer Graphics and Vision: A Survey of Colorization [[Paper](https://arxiv.org/abs/2112.13592)]  [[Project](https://fnzhan.com/Generative-AI/)]**  <br>
-[Yu Cao](https://scholar.google.com/citations?user=jkEWQIYAAAAJ&hl=zh-CN), [Xin Duan](https://www.linkedin.com/in/xin-duan-4a188a212/?originalSubdomain=hk) <br>
+[Yu Cao](https://scholar.google.com/citations?user=jkEWQIYAAAAJ&hl=zh-CN) and [Xin Duan](https://www.linkedin.com/in/xin-duan-4a188a212/?originalSubdomain=hk) <br>
 *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024*
 
+<br>
 
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 You are welcome to promote papers via pull request. <br>
 The process to submit a pull request:
 - a. Fork the project into your own repository.
-- b. Add the Title, Author, Conference, Paper link, Project link, and Code link in `README.md` with below format:
+- b. Add the Title, Author, Conference, Paper link, Project link, and Code link in `README.md` with the below format:
 ```
 **Title**<br>
 *Author*<br>
-Conference
+Full name of Journal or Conference 
 [[Paper](Paper link)]
-[[Code](Project link)]
-[[Project](Code link)]
 ```
 - c. Submit the pull request to this branch.
 
 ## Related Surveys
+
+**Image Colorization: A Survey and Dataset** <br>
+*Saeed Anwar, Muhammad Tahir, Chongyi Li, Ajmal Mian, Fahad Shahbaz Khan and Abdul Wahab Muzaffar*
+2020 Arxiv
+[[Paper](https://arxiv.org/abs/2008.10774)]
+
 **Deep Learning for Image Colorization: Current and Future Prospects** <br>
 *Shanshan Huang, Xin Jin, Qian Jiang and Li Liu* <br>
 2022 Engineering Applications of Artificial Intelligence
