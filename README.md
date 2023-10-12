@@ -112,6 +112,11 @@ Full name of Journal or Conference
 
 ## Multimodel-hint Image Colorization Methods
 
+**Interactive Deep Colorization and its Application for Image Compression** <br>
+*Yi Xiao, Jin Wu, Jie Zhang, Peiyao Zhou, Yan Zheng, Chi-Sing Leung, and Ladislav Kavan* <br>
+2022 IEEE Transactions on Visualization and Computer Graphics
+[[Paper](https://ieeexplore.ieee.org/document/9186041)]
+
 **UniColor: A Unified Framework for Multi-Modal Colorization with Transformer** <br>
 *Zhitong Huang, Nanxuan Zhao, and Jing Liao* <br>
 2022 ACM Transactions on Graphics
