@@ -131,6 +131,14 @@ Full name of Journal or Conference
 2020 Conference on Neural Information Processing Systems
 [[Paper](https://proceedings.neurips.cc/paper/2020/file/0c0a7566915f4f24853fc4192689aa7e-Paper.pdf)]
 
+**Reference-Based Video Colorization with Spatiotemporal Correspondence** <br>
+*Naofumi Akimoto, Akio Hayakawa, Andrew Shin and Takuya Narihira* <br>
+2020 Arxiv
+[[Paper](https://arxiv.org/abs/2011.12528)]
+
+
+
+
 
 
 
