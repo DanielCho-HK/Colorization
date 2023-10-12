@@ -158,6 +158,24 @@ Full name of Journal or Conference
 
 **Reference-Based Deep Line Art Video Colorization** <br>
 *Min Shi, Jia-Qi Zhang, Shu-Yu Chen, Lin Gao, Yu-Kun Lai, and Fang-Lue Zhang* <br>
+2022 IEEE Transactions on Visualization and Computer Graphics
+[[Paper](https://ieeexplore.ieee.org/document/9693178)]
+
+**Exemplar-based Video Colorization with Long-term Spatiotemporal Dependency** <br>
+*Siqi Chen, Xueming Li, Xianlin Zhang, Mingdao Wang, Yu Zhang, Jiatong Han, and Yue Zhang* <br>
+2023 Arxiv
+[[Paper](https://arxiv.org/abs/2303.15081)]
+
+**SVCNet: Scribble-based Video Colorization Network with Temporal Aggregation** <br>
+*Yuzhi Zhao, Lai-Man Po, Kangcheng Liu, Xuehui Wang, Wing-Yin Yu, Pengfei Xian, Yujia Zhang, and Mengyang Liu* <br>
+2023 IEEE Transactions on Image Processing
+[[Paper](https://arxiv.org/abs/2303.11591)]
+
+**Video Colorization with Pre-trained Text-to-Image Diffusion Models** <br>
+*Hanyuan Liu, Minshan Xie, Jinbo Xing, Chengze Li, and Tien-Tsin Wong* <br>
+2023 Arxiv
+[[Paper](https://arxiv.org/abs/2306.01732)]
+
 
 
 
