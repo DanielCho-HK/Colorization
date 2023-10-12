@@ -44,7 +44,7 @@ Full name of Journal or Conference
 [[Paper](https://www.sciencedirect.com/science/article/pii/S2468502X22000389)]
 
 
-## Text-hint Image Colorization
+## Text-hint Image Colorization Methods
 
 **Language-Based Image Editing with Recurrent Attentive Models** <br>
 *Jianbo Chen, Yelong Shen, Jianfeng Gao, Jingjing Liu, and Xiaodong Liu* <br>
@@ -96,7 +96,20 @@ Full name of Journal or Conference
 2023 Arxiv
 [[Paper](https://arxiv.org/abs/2305.15217)]
 
- 
+
+## Palette-hint Image Colorization Methods
+
+**Affective Image Colorization** <br>
+*Xiao-Hui Wang, Jia Jia, Han-Yu Liao, and Lian-Hong Cai* <br>
+2012 Journal of Computer Science and Technology
+[[Paper](https://link.springer.com/article/10.1007/s11390-012-1290-4)]
+
+**Palette-based Photo Recoloring** <br>
+*Huiwen Chang, Ohad Fried, Yiming Liu, Stephen DiVerdi, and Adam Finkelstein* <br>
+2015 ACM Transactions on Graphics
+[[Paper](https://gfx.cs.princeton.edu/pubs/Chang_2015_PPR/index.php)]
+
+
 ## Video Colorization Methods
 
 **Fast Image and Video Colorization Using Chrominance Blending** <br>
