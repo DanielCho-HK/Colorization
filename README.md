@@ -112,9 +112,14 @@ Full name of Journal or Conference
 
 ## Multimodel-hint Image Colorization Methods
 
+**Interactive Deep Colorization using Simultaneous Global and Local Inputs** <br>
+*Yi Xiao, Peiyao Zhou, Yan Zheng, and Chi-Sing Leung* <br>
+2019 IEEE International Conference on Acoustics, Speech and Signal Processing
+[[Paper](https://ieeexplore.ieee.org/abstract/document/8683686)]
+
 **Interactive Deep Colorization and its Application for Image Compression** <br>
 *Yi Xiao, Jin Wu, Jie Zhang, Peiyao Zhou, Yan Zheng, Chi-Sing Leung, and Ladislav Kavan* <br>
-2022 IEEE Transactions on Visualization and Computer Graphics
+2020 IEEE Transactions on Visualization and Computer Graphics
 [[Paper](https://ieeexplore.ieee.org/document/9186041)]
 
 **UniColor: A Unified Framework for Multi-Modal Colorization with Transformer** <br>
