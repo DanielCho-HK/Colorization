@@ -115,7 +115,7 @@ Full name of Journal or Conference
 **UniColor: A Unified Framework for Multi-Modal Colorization with Transformer** <br>
 *Zhitong Huang, Nanxuan Zhao, and Jing Liao* <br>
 2022 ACM Transactions on Graphics
-[[Paper]([https://gfx.cs.princeton.edu/pubs/Chang_2015_PPR/index.php](https://dl.acm.org/doi/abs/10.1145/3550454.3555471))]
+[[Paper](https://dl.acm.org/doi/abs/10.1145/3550454.3555471)]
 
 
 ## Video Colorization Methods
