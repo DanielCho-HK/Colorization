@@ -17,7 +17,7 @@ This project is associated with our survey paper which comprehensively contextua
 You are welcome to promote papers via pull request. <br>
 The process to submit a pull request:
 - a. Fork the project into your own repository.
-- b. Add the Title, Author, Conference, Paper link, Project link, and Code link in `README.md` with the below format:
+- b. Add the Title, Author, Full name of Journal or Conference, Paper link in `README.md` with the below format:
 ```
 **Title**<br>
 *Author*<br>
@@ -44,9 +44,6 @@ Full name of Journal or Conference
 [[Paper](https://www.sciencedirect.com/science/article/pii/S2468502X22000389)]
 
  
-
-
-
 ## Video Colorization Methods
 
 **Colorization of Grayscale Images and Videos Using A Semiautomatic Approach** <br>
