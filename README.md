@@ -7,7 +7,7 @@
 This project is associated with our survey paper which comprehensively contextualizes the advance of image and video colorization technology in the past two decades by formulating taxonomies according to data domain and model architectures.
 
 
-<img src='flag.png' align="center" width=30> **Bridge Between Computer Graphics and Vision: A Survey of Colorization [[Paper](https://arxiv.org/abs/2112.13592)]  [[Project](https://fnzhan.com/Generative-AI/)]**  <br>
+**Bridge Between Computer Graphics and Vision: A Survey of Colorization [[Paper](https://arxiv.org/abs/2112.13592)]  [[Project](https://fnzhan.com/Generative-AI/)]**  <br>
 [Yu Cao](https://scholar.google.com/citations?user=jkEWQIYAAAAJ&hl=zh-CN), [Xin Duan](https://www.linkedin.com/in/xin-duan-4a188a212/?originalSubdomain=hk) <br>
 *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024*
 
@@ -28,4 +28,9 @@ This project is associated with our survey paper which comprehensively contextua
 *Harrish Thasarathan, Kamyar Nazeri, Mehran Ebrahimi* <br> 
 2019 Conference on Computer and Robot Vision
 [[Paper](https://arxiv.org/pdf/1904.09527.pdf)]
+
+**Deep Exemplar-based Video Colorization**
+*Bo Zhang, Mingming He, Jing Liao, Pedro V. Sander, Lu Yuan, Amine Bermak, Dong Chen*
+2019 IEEE/CVF Computer Vision and Pattern Recognition Conference
+[[Paper](https://arxiv.org/abs/1906.09909)]
 
