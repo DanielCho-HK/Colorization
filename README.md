@@ -14,23 +14,23 @@ This project is associated with our survey paper which comprehensively contextua
 
 ## Video Colorization Methods
 
-**Switchable Temporal Propagation Network**<br>
+**Switchable Temporal Propagation Network** <br>
 *Sifei Liu, Guangyu Zhong, Shalini De Mello, Jinwei Gu, Varun Jampani, Ming-Hsuan Yang, and Jan Kautz* <br>
-2018 European Conference on Computer Vision
+2018 European Conference on Computer Vision 
 [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Sifei_Liu_Switchable_Temporal_Propagation_ECCV_2018_paper.pdf)]
 
-**Tracking Emerges by Colorizing Videos**<br>
+**Tracking Emerges by Colorizing Videos** <br>
 *Carl Vondrick, Abhinav Shrivastava, Alireza Fathi, Sergio Guadarrama, Kevin Murphy* <br>
 2018 European Conference on Computer Vision
 [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/html/Carl_Vondrick_Self-supervised_Tracking_by_ECCV_2018_paper.html)]
 
-**Automatic Temporally Coherent Video Colorization**
+**Automatic Temporally Coherent Video Colorization** <br>
 *Harrish Thasarathan, Kamyar Nazeri, Mehran Ebrahimi* <br> 
 2019 Conference on Computer and Robot Vision
 [[Paper](https://arxiv.org/pdf/1904.09527.pdf)]
 
-**Deep Exemplar-based Video Colorization**
-*Bo Zhang, Mingming He, Jing Liao, Pedro V. Sander, Lu Yuan, Amine Bermak, Dong Chen*
+**Deep Exemplar-based Video Colorization** <br>
+*Bo Zhang, Mingming He, Jing Liao, Pedro V. Sander, Lu Yuan, Amine Bermak, Dong Chen* <br>
 2019 IEEE/CVF Computer Vision and Pattern Recognition Conference
 [[Paper](https://arxiv.org/abs/1906.09909)]
 
