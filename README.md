@@ -19,8 +19,8 @@ The process to submit a pull request:
 - a. Fork the project into your own repository.
 - b. Add the Title, Author, Full name of Journal or Conference, Paper link in `README.md` with the below format:
 ```
-**Title**<br>
-*Author*<br>
+**Title** <br>
+*Author* <br>
 Full name of Journal or Conference 
 [[Paper](Paper link)]
 ```
@@ -45,6 +45,11 @@ Full name of Journal or Conference
 
  
 ## Video Colorization Methods
+
+**Fast Image and Video Colorization Using Chrominance Blending** <br>
+*Liron Yatziv and Guillermo Sapiro* <br>
+2006 IEEE Transactions on Image Processing
+[[Paper](https://ieeexplore.ieee.org/abstract/document/1621234)]
 
 **Colorization of Grayscale Images and Videos Using A Semiautomatic Approach** <br>
 *Vivek George Jacob and Sumana Gupta* <br>
