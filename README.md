@@ -121,10 +121,17 @@ Full name of Journal or Conference
 2019 IEEE/CVF Computer Vision and Pattern Recognition Conference
 [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Lei_Fully_Automatic_Video_Colorization_With_Self-Regularization_and_Diversity_CVPR_2019_paper.pdf)]
 
-**DeepRemaster: Temporal Source-Reference Attention Networks for Comprehensive Video Enhancement <br>
+**DeepRemaster: Temporal Source-Reference Attention Networks for Comprehensive Video Enhancement** <br>
 *Satoshi Iizuka and Edgar Simo-Serra* <br>
 2019 ACM Transactions on Graphics
 [[Paper](https://dl.acm.org/doi/10.1145/3355089.3356570)]
+
+**Blind Video Temporal Consistency via Deep Video Prior** <br>
+*Chenyang Lei, Yazhou Xing and Qifeng Chen* <br>
+2020 Conference on Neural Information Processing Systems
+[[Paper](https://proceedings.neurips.cc/paper/2020/file/0c0a7566915f4f24853fc4192689aa7e-Paper.pdf)]
+
+
 
 
 
