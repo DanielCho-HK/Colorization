@@ -77,5 +77,18 @@ This project is associated with our survey paper which comprehensively contextua
 **Deep Exemplar-based Video Colorization** <br>
 *Bo Zhang, Mingming He, Jing Liao, Pedro V. Sander, Lu Yuan, Amine Bermak and Dong Chen* <br>
 2019 IEEE/CVF Computer Vision and Pattern Recognition Conference
-[[Paper](https://arxiv.org/abs/1906.09909)]
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Deep_Exemplar-Based_Video_Colorization_CVPR_2019_paper.pdf)]
+
+**Fully Automatic Video Colorization with Self-Regularization and Diversity** <br>
+*Chenyang Lei and Qifeng Chen* <br>
+2019 IEEE/CVF Computer Vision and Pattern Recognition Conference
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Lei_Fully_Automatic_Video_Colorization_With_Self-Regularization_and_Diversity_CVPR_2019_paper.pdf)]
+
+
+
+
+
+
+
+
 
