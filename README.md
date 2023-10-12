@@ -14,23 +14,38 @@ This project is associated with our survey paper which comprehensively contextua
 
 ## Video Colorization Methods
 
+**Video Propagation Networks** <br>
+*Varun Jampani, Raghudeep Gadde, and Peter V. Gehler* <br>
+2017 IEEE/CVF Computer Vision and Pattern Recognition Conference
+[[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Jampani_Video_Propagation_Networks_CVPR_2017_paper.pdf)]
+
+**Spatiotemporal Colorization of Video Using 3D Steerable Pyramids** <br>
+*Somdyuti Paul, Saumik Bhattacharya, and Sumana Gupta* <br>
+2017 IEEE Transactions on Circuits and Systems for Video Technology
+[[Paper](https://ieeexplore.ieee.org/document/7428858)]
+
+**Deep Video Color Propagation** <br>
+*Simone Meyer, Victor Cornillère, Abdelaziz Djelouah, Christopher Schroers, and Markus Gross* <br>
+2018 British Machine Vision Conference 
+[[Paper](https://arxiv.org/abs/1808.03232)]
+
 **Switchable Temporal Propagation Network** <br>
 *Sifei Liu, Guangyu Zhong, Shalini De Mello, Jinwei Gu, Varun Jampani, Ming-Hsuan Yang, and Jan Kautz* <br>
 2018 European Conference on Computer Vision 
 [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Sifei_Liu_Switchable_Temporal_Propagation_ECCV_2018_paper.pdf)]
 
 **Tracking Emerges by Colorizing Videos** <br>
-*Carl Vondrick, Abhinav Shrivastava, Alireza Fathi, Sergio Guadarrama, Kevin Murphy* <br>
+*Carl Vondrick, Abhinav Shrivastava, Alireza Fathi, Sergio Guadarrama, and Kevin Murphy* <br>
 2018 European Conference on Computer Vision
 [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/html/Carl_Vondrick_Self-supervised_Tracking_by_ECCV_2018_paper.html)]
 
 **Automatic Temporally Coherent Video Colorization** <br>
-*Harrish Thasarathan, Kamyar Nazeri, Mehran Ebrahimi* <br> 
+*Harrish Thasarathan, Kamyar Nazeri, and Mehran Ebrahimi* <br> 
 2019 Conference on Computer and Robot Vision
 [[Paper](https://arxiv.org/pdf/1904.09527.pdf)]
 
 **Deep Exemplar-based Video Colorization** <br>
-*Bo Zhang, Mingming He, Jing Liao, Pedro V. Sander, Lu Yuan, Amine Bermak, Dong Chen* <br>
+*Bo Zhang, Mingming He, Jing Liao, Pedro V. Sander, Lu Yuan, Amine Bermak, and Dong Chen* <br>
 2019 IEEE/CVF Computer Vision and Pattern Recognition Conference
 [[Paper](https://arxiv.org/abs/1906.09909)]
 
