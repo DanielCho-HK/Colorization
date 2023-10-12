@@ -29,6 +29,16 @@ This project is associated with our survey paper which comprehensively contextua
 2015 IEEE/CVF Computer Vision and Pattern Recognition Conference
 [[Paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Ben-Zrihem_Approximate_Nearest_Neighbor_2015_CVPR_paper.pdf)]
 
+**Blind Video Temporal Consistency** <br>
+*Nicolas Bonneel1, James Tompkin, Kalyan Sunkavalli, Deqing Sun, Sylvain Paris and Hanspeter Pfister* <br>
+2015 ACM Transactions on Graphics 
+[[Paper](https://dl.acm.org/doi/pdf/10.1145/2816795.2818107?casa_token=NZgm8mTGYFYAAAAA:iA9_8-FPDwbCgfxaODhuEkixap_Be81FWKw6KqU6dN47WliotTB-WxtJHZOaWUsyzT6Uu10s5TXejw)]
+
+**Robust and Automatic Video Colorization via Multiframe Reordering Refinement** <br>
+*Sifeng Xia, Jiaying Liu, Yuming Fang, Wenhan Yang and Zongming Guo* <br>
+2016 IEEE International Conference on Image Processing
+[[Paper](https://ieeexplore.ieee.org/abstract/document/7533114)]
+
 **Video Propagation Networks** <br>
 *Varun Jampani, Raghudeep Gadde and Peter V. Gehler* <br>
 2017 IEEE/CVF Computer Vision and Pattern Recognition Conference
@@ -43,6 +53,11 @@ This project is associated with our survey paper which comprehensively contextua
 *Simone Meyer, Victor Cornillère, Abdelaziz Djelouah, Christopher Schroers and Markus Gross* <br>
 2018 British Machine Vision Conference 
 [[Paper](https://arxiv.org/abs/1808.03232)]
+
+**Learning Blind Video Temporal Consistency** <br>
+*Wei-Sheng Lai, Jia-Bin Huang, Oliver Wang, Eli Shechtman, Ersin Yumer and Ming-Hsuan Yang* <br>
+2018 European Conference on Computer Vision
+[[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Wei-Sheng_Lai_Real-Time_Blind_Video_ECCV_2018_paper.pdf)]
 
 **Switchable Temporal Propagation Network** <br>
 *Sifei Liu, Guangyu Zhong, Shalini De Mello, Jinwei Gu, Varun Jampani, Ming-Hsuan Yang and Jan Kautz* <br>
