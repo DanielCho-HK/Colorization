@@ -110,6 +110,14 @@ Full name of Journal or Conference
 [[Paper](https://gfx.cs.princeton.edu/pubs/Chang_2015_PPR/index.php)]
 
 
+## Multimodel-hint Image Colorization Methods
+
+**UniColor: A Unified Framework for Multi-Modal Colorization with Transformer** <br>
+*Zhitong Huang, Nanxuan Zhao, and Jing Liao* <br>
+2022 ACM Transactions on Graphics
+[[Paper]([https://gfx.cs.princeton.edu/pubs/Chang_2015_PPR/index.php](https://dl.acm.org/doi/abs/10.1145/3550454.3555471))]
+
+
 ## Video Colorization Methods
 
 **Fast Image and Video Colorization Using Chrominance Blending** <br>
