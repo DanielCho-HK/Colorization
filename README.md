@@ -136,6 +136,10 @@ Full name of Journal or Conference
 2020 Arxiv
 [[Paper](https://arxiv.org/abs/2011.12528)]
 
+**The Animation Transformer: Visual Correspondence via Segment Matching** <br>
+*Evan Casey, V ́ıctor Pe ́rez and Zhuoru Li* <br>
+
+
 
 
 
