@@ -12,6 +12,36 @@ This project is associated with our survey paper which comprehensively contextua
 *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024*
 
 
+[![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
+You are welcome to promote papers via pull request. <br>
+The process to submit a pull request:
+- a. Fork the project into your own repository.
+- b. Add the Title, Author, Conference, Paper link, Project link, and Code link in `README.md` with below format:
+```
+**Title**<br>
+*Author*<br>
+Conference
+[[Paper](Paper link)]
+[[Code](Project link)]
+[[Project](Code link)]
+```
+- c. Submit the pull request to this branch.
+
+## Related Surveys
+**Deep Learning for Image Colorization: Current and Future Prospects** <br>
+*Shanshan Huang, Xin Jin, Qian Jiang and Li Liu* <br>
+2022 Engineering Applications of Artificial Intelligence
+[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197622001920)]
+
+**A Review of Image and Video Colorization: From Analogies to Deep Learning** <br>
+*Shu-Yu Chen, Jia-Qi Zhang, You-You Zhao, Paul L. Rosin, Yu-Kun Lai and Lin Gao* <br>
+2022 Visual Informatics
+[[Paper](https://www.sciencedirect.com/science/article/pii/S2468502X22000389)]
+
+ 
+
+
+
 ## Video Colorization Methods
 
 **Colorization of Grayscale Images and Videos Using A Semiautomatic Approach** <br>
