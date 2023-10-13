@@ -44,6 +44,14 @@ Full name of Journal or Conference
 [[Paper](https://www.sciencedirect.com/science/article/pii/S2468502X22000389)]
 
 
+## Scribble-hint Image Colorization Methods
+
+**Colorization using Optimization** <br>
+*Anat Levin, Dani Lischinski, and Yair Weiss* <br>
+2004 ACM Transactions on Graphics
+[[Paper](https://dl.acm.org/doi/10.1145/1015706.1015780)]
+
+
 ## Text-hint Image Colorization Methods
 
 **Language-Based Image Editing with Recurrent Attentive Models** <br>
