@@ -138,12 +138,17 @@ Full name of Journal or Conference
 **Infrared Image Colorization based on a Triplet DCGAN Architecture** <br>
 *Patricia L. Suárez, Angel D. Sappa, and Boris X. Vintimilla* <br>
 2017 IEEE Conference on Computer Vision and Pattern Recognition Workshops
-[[Paper](https://ieeexplore.ieee.org/document/8014766/)]
+[[Paper](https://ieeexplore.ieee.org/document/8014766)]
 
-**(DE)$^2$CO: Deep Depth Colorization** <br>
+**(DE)2CO: Deep Depth Colorization** <br>
 *Fabio Maria Carlucci, Paolo Russo, and Barbara Caputo* <br>
 2018 IEEE Robotics and Automation Letters
 [[Paper](https://ieeexplore.ieee.org/document/8306886)]
+
+**Colorizing Near Infrared Images through a Cyclic Adversarial Approach of Unpaired Samples** <br>
+*Armin Mehri, and Angel D. Sappa* <br>
+2019 IEEE Conference on Computer Vision and Pattern Recognition Workshops
+[[Paper](https://ieeexplore.ieee.org/document/9025662)]
 
 
 
