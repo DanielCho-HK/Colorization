@@ -48,7 +48,7 @@ Full name of Journal or Conference
 
 **Language-Based Image Editing with Recurrent Attentive Models** <br>
 *Jianbo Chen, Yelong Shen, Jianfeng Gao, Jingjing Liu, and Xiaodong Liu* <br>
-2018 IEEE/CVF Computer Vision and Pattern Recognition Conference
+2018 IEEE Conference on Computer Vision and Pattern Recognition
 [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Language-Based_Image_Editing_CVPR_2018_paper.pdf)]
 
 **Coloring with Words: Guiding Image Colorization Through Text-based Palette Generation** <br>
@@ -63,7 +63,7 @@ Full name of Journal or Conference
 
 **Tag2Pix: Line Art Colorization Using Text Tag With SECat and Changing Loss** <br>
 *Hyunsu Kim, Ho Young Jhoo, Eunhyeok Park, and Sungjoo Yoo* <br>
-2019 IEEE/CVF International Conference on Computer Vision
+2019 IEEE International Conference on Computer Vision
 [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Kim_Tag2Pix_Line_Art_Colorization_Using_Text_Tag_With_SECat_and_ICCV_2019_paper.pdf)]
 
 **Language-based Colorization of Scene Sketches** <br>
@@ -88,7 +88,7 @@ Full name of Journal or Conference
 
 **L-CoIns: Language-based Colorization with Instance Awareness** <br>
 *Zheng Chang, Shuchen Weng, Peixuan Zhang, Yu Li, Si Li, and Boxin Shi* <br>
-2023 IEEE/CVF Computer Vision and Pattern Recognition Conference
+2023 IEEE Conference on Computer Vision and Pattern Recognition
 [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Chang_L-CoIns_Language-Based_Colorization_With_Instance_Awareness_CVPR_2023_paper.pdf)]
 
 **L-CAD: Language-based Colorization with Any-level Descriptions** <br>
@@ -137,7 +137,7 @@ Full name of Journal or Conference
 
 **Infrared Image Colorization based on a Triplet DCGAN Architecture** <br>
 *Patricia L. Suárez, Angel D. Sappa, and Boris X. Vintimilla* <br>
-2017 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops
+2017 IEEE Conference on Computer Vision and Pattern Recognition Workshops
 [[Paper](https://ieeexplore.ieee.org/document/8014766)]
 
 **(DE)2CO: Deep Depth Colorization** <br>
@@ -147,7 +147,7 @@ Full name of Journal or Conference
 
 **Colorizing Near Infrared Images through a Cyclic Adversarial Approach of Unpaired Samples** <br>
 *Armin Mehri, and Angel D. Sappa* <br>
-2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops
+2019 IEEE Conference on Computer Vision and Pattern Recognition Workshops
 [[Paper](https://ieeexplore.ieee.org/document/9025662)]
 
 **Adversarial Colorization Of Icons Based On Structure And Color Conditions** <br>
@@ -162,22 +162,22 @@ Full name of Journal or Conference
 
 **Point2color: 3D Point Cloud Colorization Using a Conditional Generative Network and Differentiable Rendering for Airborne LiDAR** <br>
 *Takayuki Shinohara, Haoyi Xiu, and Masashi Matsuoka* <br>
-2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops
+2021 IEEE Conference on Computer Vision and Pattern Recognition Workshops
 [[Paper](https://ieeexplore.ieee.org/document/9522825)]
 
 **Underwater Image Color Correction Using Ensemble Colorization Network** <br>
 *Arpit Pipara, Urvi Oza, and Srimanta Mandal* <br>
-2021 IEEE/CVF International Conference on Computer Vision Workshops
+2021 IEEE International Conference on Computer Vision Workshops
 [[Paper](https://ieeexplore.ieee.org/document/9607633)]
 
 **Style-Structure Disentangled Features and Normalizing Flows for Diverse Icon Colorization** <br>
 *Yuan–kui Li, Yun–Hsuan Lien, and Yu–Shuen Wang* <br>
-2022 IEEE/CVF Computer Vision and Pattern Recognition Conference 
+2022 IEEE Conference on Computer Vision and Pattern Recognition 
 [[Paper](https://ieeexplore.ieee.org/document/9879196)]
 
 **Generative Colorization of Structured MobileWeb Pages** <br>
 *Kotaro Kikuchi, Naoto Inoue, Mayu Otani, Edgar Simo-Serra, and Kota Yamaguchi* <br>
-2023 IEEE/CVF Winter Conference on Applications of Computer Vision
+2023 IEEE Winter Conference on Applications of Computer Vision
 [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Kikuchi_Generative_Colorization_of_Structured_Mobile_Web_Pages_WACV_2023_paper.pdf)]
 
 
@@ -200,7 +200,7 @@ Full name of Journal or Conference
 
 **Approximate Nearest Neighbor Fields in Video** <br>
 *Nir Ben-Zrihem, and Lihi Zelnik-Manor* <br>
-2015 IEEE/CVF Computer Vision and Pattern Recognition Conference
+2015 IEEE Conference on Computer Vision and Pattern Recognition
 [[Paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Ben-Zrihem_Approximate_Nearest_Neighbor_2015_CVPR_paper.pdf)]
 
 **Blind Video Temporal Consistency** <br>
@@ -215,7 +215,7 @@ Full name of Journal or Conference
 
 **Video Propagation Networks** <br>
 *Varun Jampani, Raghudeep Gadde, and Peter V. Gehler* <br>
-2017 IEEE/CVF Computer Vision and Pattern Recognition Conference
+2017 IEEE Conference on Computer Vision and Pattern Recognition
 [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Jampani_Video_Propagation_Networks_CVPR_2017_paper.pdf)]
 
 **Spatiotemporal Colorization of Video Using 3D Steerable Pyramids** <br>
@@ -250,12 +250,12 @@ Full name of Journal or Conference
 
 **Deep Exemplar-based Video Colorization** <br>
 *Bo Zhang, Mingming He, Jing Liao, Pedro V. Sander, Lu Yuan, Amine Bermak, and Dong Chen* <br>
-2019 IEEE/CVF Computer Vision and Pattern Recognition Conference
+2019 IEEE Conference on Computer Vision and Pattern Recognition
 [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Deep_Exemplar-Based_Video_Colorization_CVPR_2019_paper.pdf)]
 
 **Fully Automatic Video Colorization with Self-Regularization and Diversity** <br>
 *Chenyang Lei, and Qifeng Chen* <br>
-2019 IEEE/CVF Computer Vision and Pattern Recognition Conference
+2019 IEEE Conference on Computer Vision and Pattern Recognition
 [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Lei_Fully_Automatic_Video_Colorization_With_Self-Regularization_and_Diversity_CVPR_2019_paper.pdf)]
 
 **DeepRemaster: Temporal Source-Reference Attention Networks for Comprehensive Video Enhancement** <br>
@@ -275,7 +275,7 @@ Full name of Journal or Conference
 
 **The Animation Transformer: Visual Correspondence via Segment Matching** <br>
 *Evan Casey, V ́ıctor Pe ́rez, and Zhuoru Li* <br>
-2021 IEEE/CVF International Conference on Computer Vision
+2021 IEEE International Conference on Computer Vision
 [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Casey_The_Animation_Transformer_Visual_Correspondence_via_Segment_Matching_ICCV_2021_paper.html)]
 
 **Temporally Consistent Video Colorization with Deep Feature Propagation and Self-regularization Learning** <br>
@@ -285,7 +285,7 @@ Full name of Journal or Conference
 
 **Line Art Correlation Matching Feature Transfer Network for Automatic Animation Colorization** <br>
 *Qian Zhang, Bo Wang, Wei Wen, Hai Li, and Junhui Liu* <br>
-2021 IEEE/CVF Winter Conference on Applications of Computer Vision
+2021 IEEE Winter Conference on Applications of Computer Vision
 [[Paper](https://openaccess.thecvf.com/content/WACV2021/papers/Zhang_Line_Art_Correlation_Matching_Feature_Transfer_Network_for_Automatic_Animation_WACV_2021_paper.pdf)]
 
 **BiSTNet: Semantic Image Prior Guided Bidirectional Temporal Feature Fusion for Deep Exemplar-based Video Colorization** <br>
