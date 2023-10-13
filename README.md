@@ -63,7 +63,7 @@ Full name of Journal or Conference
 
 **Tag2Pix: Line Art Colorization Using Text Tag With SECat and Changing Loss** <br>
 *Hyunsu Kim, Ho Young Jhoo, Eunhyeok Park, and Sungjoo Yoo* <br>
-2019 International Conference on Computer Vision
+2019 IEEE/CVF International Conference on Computer Vision
 [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Kim_Tag2Pix_Line_Art_Colorization_Using_Text_Tag_With_SECat_and_ICCV_2019_paper.pdf)]
 
 **Language-based Colorization of Scene Sketches** <br>
@@ -137,7 +137,7 @@ Full name of Journal or Conference
 
 **Infrared Image Colorization based on a Triplet DCGAN Architecture** <br>
 *Patricia L. Suárez, Angel D. Sappa, and Boris X. Vintimilla* <br>
-2017 IEEE Conference on Computer Vision and Pattern Recognition Workshops
+2017 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops
 [[Paper](https://ieeexplore.ieee.org/document/8014766)]
 
 **(DE)2CO: Deep Depth Colorization** <br>
@@ -147,10 +147,38 @@ Full name of Journal or Conference
 
 **Colorizing Near Infrared Images through a Cyclic Adversarial Approach of Unpaired Samples** <br>
 *Armin Mehri, and Angel D. Sappa* <br>
-2019 IEEE Conference on Computer Vision and Pattern Recognition Workshops
+2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops
 [[Paper](https://ieeexplore.ieee.org/document/9025662)]
 
+**Adversarial Colorization Of Icons Based On Structure And Color Conditions** <br>
+*Tsai-Ho Sun, Chien-Hsun Lai, Sai-Keung Wong, and Yu-Shuen Wang* <br>
+2019 ACM Multimedia
+[[Paper](https://dl.acm.org/doi/10.1145/3343031.3351041)]
 
+**Colorization of Depth Map via Disentanglement** <br>
+*Chung-Sheng Lai, Zunzhi You, Ching-Chun Huang, Yi-Hsuan Tsai, and Wei-Chen Chiu* <br>
+2020 European Conference on Computer Vision
+[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520443.pdf)]
+
+**Point2color: 3D Point Cloud Colorization Using a Conditional Generative Network and Differentiable Rendering for Airborne LiDAR** <br>
+*Takayuki Shinohara, Haoyi Xiu, and Masashi Matsuoka* <br>
+2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops
+[[Paper](https://ieeexplore.ieee.org/document/9522825)]
+
+**Underwater Image Color Correction Using Ensemble Colorization Network** <br>
+*Arpit Pipara, Urvi Oza, and Srimanta Mandal* <br>
+2021 IEEE/CVF International Conference on Computer Vision Workshops
+[[Paper](https://ieeexplore.ieee.org/document/9607633)]
+
+**Style-Structure Disentangled Features and Normalizing Flows for Diverse Icon Colorization** <br>
+*Yuan–kui Li, Yun–Hsuan Lien, and Yu–Shuen Wang* <br>
+2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition 
+[[Paper](https://ieeexplore.ieee.org/document/9879196)]
+
+**Generative Colorization of Structured MobileWeb Pages** <br>
+*Kotaro Kikuchi, Naoto Inoue, Mayu Otani, Edgar Simo-Serra, and Kota Yamaguchi* <br>
+2023 IEEE/CVF Winter Conference on Applications of Computer Vision
+[[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Kikuchi_Generative_Colorization_of_Structured_Mobile_Web_Pages_WACV_2023_paper.pdf)]
 
 
 ## Video Colorization Methods
