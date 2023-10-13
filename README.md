@@ -172,7 +172,7 @@ Full name of Journal or Conference
 
 **Style-Structure Disentangled Features and Normalizing Flows for Diverse Icon Colorization** <br>
 *Yuan–kui Li, Yun–Hsuan Lien, and Yu–Shuen Wang* <br>
-2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition 
+2022 IEEE/CVF Computer Vision and Pattern Recognition Conference 
 [[Paper](https://ieeexplore.ieee.org/document/9879196)]
 
 **Generative Colorization of Structured MobileWeb Pages** <br>
@@ -275,7 +275,7 @@ Full name of Journal or Conference
 
 **The Animation Transformer: Visual Correspondence via Segment Matching** <br>
 *Evan Casey, V ́ıctor Pe ́rez, and Zhuoru Li* <br>
-2021 International Conference on Computer Vision
+2021 IEEE/CVF International Conference on Computer Vision
 [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Casey_The_Animation_Transformer_Visual_Correspondence_via_Segment_Matching_ICCV_2021_paper.html)]
 
 **Temporally Consistent Video Colorization with Deep Feature Propagation and Self-regularization Learning** <br>
