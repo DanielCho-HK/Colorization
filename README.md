@@ -128,7 +128,23 @@ Full name of Journal or Conference
 [[Paper](https://dl.acm.org/doi/abs/10.1145/3550454.3555471)]
 
 
-## Domain Specific Colorization Methods
+## Domain-Specific Colorization Methods
+
+**Infrared Colorization Using Deep Convolutional Neural Networks** <br>
+*Matthias Limmer, and Hendrik P.A. Lensch* <br>
+2016 IEEE International Conference on Machine Learning and Applications
+[[Paper](https://arxiv.org/abs/1604.02245)]
+
+**Infrared Image Colorization based on a Triplet DCGAN Architecture** <br>
+*Patricia L. Suárez, Angel D. Sappa, and Boris X. Vintimilla* <br>
+2017 IEEE Conference on Computer Vision and Pattern Recognition Workshops
+[[Paper](https://ieeexplore.ieee.org/document/8014766/)]
+
+**(DE)$^2$CO: Deep Depth Colorization** <br>
+*Fabio Maria Carlucci, Paolo Russo, and Barbara Caputo* <br>
+2018 IEEE Robotics and Automation Letters
+[[Paper](https://ieeexplore.ieee.org/document/8306886)]
+
 
 
 
