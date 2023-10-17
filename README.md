@@ -86,11 +86,20 @@ Full name of Journal or Conference
 2017 IEEE Conference on Computer Vision and Pattern Recognition
 [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Sangkloy_Scribbler_Controlling_Deep_CVPR_2017_paper.pdf)]
 
+**Auto-painter: Cartoon Image Generation from Sketch by Using Conditional Generative Adversarial Networks** <br>
+*Yifan Liu, Zengchang Qin, Zhenbo Luo, and Hua Wang* <br>
+2017 Neurocomputing
+[[Paper](https://arxiv.org/abs/1705.01908)]
 
+**Outline Colorization through Tandem Adversarial Networks** <br>
+*Kevin Frans* <br>
+2017 Arxiv
+[[Paper](https://arxiv.org/abs/1704.08834)]
 
-
-
-
+**Real-Time User-Guided Image Colorization with Learned Deep Priors** <br>
+*Richard Zhang, Jun-Yan Zhu, Phillip Isola, Xinyang Geng, Angela S. Lin, Tianhe Yu, and Alexei A. Efros* <br>
+2017 ACM Transactions on Graphics
+[[Paper](https://dl.acm.org/doi/10.1145/3072959.3073703)]
 
 
 
