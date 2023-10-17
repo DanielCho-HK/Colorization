@@ -51,6 +51,49 @@ Full name of Journal or Conference
 2004 ACM Transactions on Graphics
 [[Paper](https://dl.acm.org/doi/10.1145/1015706.1015780)]
 
+**An Adaptive Edge Detection Based Colorization Algorithm and Its Applications** <br>
+*Yi-Chin Huang, Yi-Shin Tung, Jun-Cheng Chen, Sung-Wen Wang, and Ja-Ling Wu* <br>
+2005 ACM Multimedia
+[[Paper](https://dl.acm.org/doi/10.1145/1101149.1101223)]
+
+**Fast Image and Video Colorization Using Chrominance Blending** <br>
+*Liron Yatziv, and Guillermo Sapiro* <br>
+2006 IEEE Transactions on Image Processing
+[[Paper](https://ieeexplore.ieee.org/document/1621234)]
+
+**Manga Colorization** <br>
+*Yingge Qu, Tien-Tsin Wong, and Pheng-Ann Heng* <br>
+2006 ACM Transactions on Graphics
+[[Paper](https://dl.acm.org/doi/10.1145/1141911.1142017)]
+
+**Natural Image Colorization** <br>
+*Qing Luan, Fang Wen, Daniel Cohen-Or, Lin Liang, Ying-Qing Xu, and Heung-Yeung Shum* <br>
+2007 Eurographics Symposium on Rendering
+[[Paper](https://diglib.eg.org/handle/10.2312/EGWR.EGSR07.309-320)]
+
+**LazyBrush: Flexible Painting Tool for Hand-drawn Cartoons** <br>
+*Daniel Sýkora, John Dingliana, and Steven Collins* <br>
+2009 Computer Graphics Forum
+[[Paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2009.01400.x)]
+
+**Video Colorization Using Parallel Optimization in Feature Space** <br>
+*Bin Sheng, Hanqiu Sun, Marcus Magnor, and Ping Li* <br>
+2014 IEEE Transactions on Circuits and Systems for Video Technology
+[[Paper](https://ieeexplore.ieee.org/abstract/document/6575125)]
+
+**Scribbler: Controlling Deep Image Synthesis with Sketch and Color** <br>
+*Patsorn Sangkloy, Jingwan Lu, Chen Fang, Fisher Yu, and James Hays* <br>
+2017 IEEE Conference on Computer Vision and Pattern Recognition
+[[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Sangkloy_Scribbler_Controlling_Deep_CVPR_2017_paper.pdf)]
+
+
+
+
+
+
+
+
+
 
 ## Text-hint Image Colorization Methods
 
