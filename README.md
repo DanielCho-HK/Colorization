@@ -156,6 +156,36 @@ Full name of Journal or Conference
 2020 IEEE Transactions on Visualization and Computer Graphics
 [[Paper](https://ieeexplore.ieee.org/document/8676327)]
 
+**Line Art Colorization Based on Explicit Region Segmentation** <br>
+*Ruizhi Cao, Haoran Mo, and Chengying Gao* <br>
+2021 Computer Graphics Forum
+[[Paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14396)]
+
+**Color2Embed: Fast Exemplar-Based Image Colorization using Color Embeddings** <br>
+*Hengyuan Zhao, Wenhao Wu, Yihao Liu, and Dongliang He* <br>
+2021 Arxiv
+[[Paper](https://arxiv.org/abs/2106.08017)]
+
+**Yes, “Attention Is All You Need”, for Exemplar based Colorization** <br>
+*Wang Yin, Peng Lu, Zhaoran Zhao, and Xujun Peng* <br>
+2021 ACM Multimedia
+[[Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475385)]
+
+**Globally and Locally Semantic Colorization via Exemplar-Based Broad-GAN** <br>
+*Haoxuan Li, Bin Sheng, Ping Li, Riaz Ali, and C. L. Philip Chen* <br>
+2021 IEEE Transactions on Image Processing 
+[[Paper](https://ieeexplore.ieee.org/document/9566701)]
+
+**Super-Attention for Exemplar-Based Image Colorization** <br>
+*Hernan Carrillo, Micha ̈el Cl ́ement, and Aur ́elie Bugeau* <br>
+2022 Asian Conference on Computer Vision
+[[Paper](https://openaccess.thecvf.com/content/ACCV2022/papers/Camilo_Super-attention_for_exemplar-based_image_colorization_ACCV_2022_paper.pdf)]
+
+**Reference-Guided Structure-Aware Deep Sketch Colorization for Cartoons** <br>
+*Xueting Liu, Wenliang Wu, Chengze Li, Yifan Li, and Huisi Wu* <br>
+2022 Computational Visual Media
+[[Paper](https://link.springer.com/article/10.1007/s41095-021-0228-6)]
+
 
 
 
