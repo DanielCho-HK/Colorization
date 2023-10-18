@@ -116,7 +116,25 @@ Full name of Journal or Conference
 2021 IEEE Conference on Computer Vision and Pattern Recognition
 [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_User-Guided_Line_Art_Flat_Filling_With_Split_Filling_Mechanism_CVPR_2021_paper.pdf)]
 
+**Line Art Colorization with Concatenated Spatial Attention** <br>
+*Mingcheng Yuan, and Edgar Simo-Serra* <br>
+2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021W/CVFAD/papers/Yuan_Line_Art_Colorization_With_Concatenated_Spatial_Attention_CVPRW_2021_paper.pdf)]
 
+**Deep Edge-Aware Interactive Colorization against Color-Bleeding Effects** <br>
+*Eungyeup Kim, Sanghyeon Lee, Jeonghoon Park, Somi Choi, Choonghyun Seo, and Jaegul Choo* <br>
+2021 IEEE International Conference on Computer Vision
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_Deep_Edge-Aware_Interactive_Colorization_Against_Color-Bleeding_Effects_ICCV_2021_paper.pdf)]
+
+**Dual Color Space Guided Sketch Colorization** <br>
+*Zhi Dou, Ning Wang, Baopu Li, Zhihui Wang, Haojie Li, and Bin Liu* <br>
+2021 IEEE Transactions on Image Processing
+[[Paper](https://ieeexplore.ieee.org/document/9515572)]
+
+**Diffusart: Enhancing Line Art Colorization with Conditional Diffusion Models** <br>
+*Hernan Carrillo1, Michae ̈l Cle ́ment, Aure ́lie Bugeau, and Edgar Simo-Serra* <br>
+2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023W/CVFAD/papers/Carrillo_Diffusart_Enhancing_Line_Art_Colorization_With_Conditional_Diffusion_Models_CVPRW_2023_paper.pdf)]
 
 
 
