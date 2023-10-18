@@ -83,7 +83,7 @@ Full name of Journal or Conference
 
 **Image Colorization Using Similar Images** <br>
 *Raj Kumar Gupta, Alex Yong-Sang Chia, Deepu Rajan, Ee Sin Ng, and Huang Zhiyong* <br>
-2012 ACM Multimedia
+2012 ACM International Conference on Multimedia
 [[Paper](https://dl.acm.org/doi/10.1145/2393347.2393402)]
 
 **Variational Exemplar-Based Image Colorization** <br>
@@ -143,7 +143,7 @@ Full name of Journal or Conference
 
 **Gray2ColorNet: Transfer More Colors from Reference Image** <br>
 *Peng Lu, Jinbei Yu, Xujun Peng, Zhaoran Zhao, and Xiaojie Wang* <br>
-2020 ACM Multimedia
+2020 ACM International Conference on Multimedia
 [[Paper](https://dl.acm.org/doi/10.1145/3394171.3413594)]
 
 **Manga Filling Style Conversion with Screentone Variational Autoencoder** <br>
@@ -168,7 +168,7 @@ Full name of Journal or Conference
 
 **Yes, “Attention Is All You Need”, for Exemplar based Colorization** <br>
 *Wang Yin, Peng Lu, Zhaoran Zhao, and Xujun Peng* <br>
-2021 ACM Multimedia
+2021 ACM International Conference on Multimedia
 [[Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475385)]
 
 **Globally and Locally Semantic Colorization via Exemplar-Based Broad-GAN** <br>
@@ -206,7 +206,7 @@ Full name of Journal or Conference
 
 **An Adaptive Edge Detection Based Colorization Algorithm and Its Applications** <br>
 *Yi-Chin Huang, Yi-Shin Tung, Jun-Cheng Chen, Sung-Wen Wang, and Ja-Ling Wu* <br>
-2005 ACM Multimedia
+2005 ACM International Conference on Multimedia
 [[Paper](https://dl.acm.org/doi/10.1145/1101149.1101223)]
 
 **Fast Image and Video Colorization Using Chrominance Blending** <br>
@@ -256,7 +256,7 @@ Full name of Journal or Conference
 
 **User-Guided Deep Anime Line Art Colorization with Conditional Adversarial Networks** <br>
 *Yuanzheng Ci, Xinzhu Ma, Zhihui Wang, Haojie Li, and Zhongxuan Luo* <br>
-2018 ACM Multimedia
+2018 ACM International Conference on Multimedia
 [[Paper](https://dl.acm.org/doi/10.1145/3240508.3240661)]
 
 **Two-stage Sketch Colorization** <br>
@@ -408,7 +408,7 @@ Full name of Journal or Conference
 
 **Adversarial Colorization Of Icons Based On Structure And Color Conditions** <br>
 *Tsai-Ho Sun, Chien-Hsun Lai, Sai-Keung Wong, and Yu-Shuen Wang* <br>
-2019 ACM Multimedia
+2019 ACM International Conference on Multimedia
 [[Paper](https://dl.acm.org/doi/10.1145/3343031.3351041)]
 
 **Colorization of Depth Map via Disentanglement** <br>
