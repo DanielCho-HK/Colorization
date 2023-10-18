@@ -116,8 +116,45 @@ Full name of Journal or Conference
 2019 Computer Graphics Forum
 [[Paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13659)]
 
+**Automatic Example-Based Image Colorization Using Location-Aware Cross-Scale Matching** <br>
+*Bo Li, Yu-Kun Lai, Matthew John, and Paul L. Rosin* <br>
+2019 IEEE Transactions on Image Processing
+[[Paper](https://ieeexplore.ieee.org/document/8699109)]
 
+**Colorization of Line Drawings with Empty Pupils** <br>
+*K. Akita, Y. Morimoto, and R. Tsuruno* <br>
+2020 Computer Graphics Forum
+[[Paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14171)]
 
+**Reference-Based Sketch Image Colorization using Augmented-Self Reference and Dense Semantic Correspondence** <br>
+*Junsoo Lee, Eungyeup Kim, Yunsung Lee, Dongjun Kim, Jaehyuk Chang, and Jaegul Choo* <br>
+2020 IEEE Conference on Computer Vision and Pattern Recognition
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lee_Reference-Based_Sketch_Image_Colorization_Using_Augmented-Self_Reference_and_Dense_Semantic_CVPR_2020_paper.pdf)]
+
+**Stylization-Based Architecture for Fast Deep Exemplar Colorization** <br>
+*Zhongyou Xu, Tingting Wang, Faming Fang, Yun Sheng, and Guixu Zhang* <br>
+2020 IEEE Conference on Computer Vision and Pattern Recognition
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Stylization-Based_Architecture_for_Fast_Deep_Exemplar_Colorization_CVPR_2020_paper.pdf)]
+
+**Deep-Eyes: Fully Automatic Anime Character Colorization with Painting of Details on Empty Pupils** <br>
+*K. Akita, Y. Morimoto, and R. Tsuruno* <br>
+2020 Eurographics
+[[Paper](https://diglib.eg.org/handle/10.2312/egs20201023)]
+
+**Gray2ColorNet: Transfer More Colors from Reference Image** <br>
+*Peng Lu, Jinbei Yu, Xujun Peng, Zhaoran Zhao, and Xiaojie Wang* <br>
+2020 ACM Multimedia
+[[Paper](https://dl.acm.org/doi/10.1145/3394171.3413594)]
+
+**Manga Filling Style Conversion with Screentone Variational Autoencoder** <br>
+*Minshan Xie, Chengze Li, Xueting Liu, and Tien-Tsin Wong* <br>
+2020 ACM Transactions on Graphics
+[[Paper](https://dl.acm.org/doi/abs/10.1145/3414685.3417873)]
+
+**A Superpixel-Based Variational Model for Image Colorization** <br>
+*Faming Fang, Tingting Wang, Tieyong Zeng, and Guixu Zhang* <br>
+2020 IEEE Transactions on Visualization and Computer Graphics
+[[Paper](https://ieeexplore.ieee.org/document/8676327)]
 
 
 
