@@ -457,6 +457,23 @@ Full name of Journal or Conference
 [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Kikuchi_Generative_Colorization_of_Structured_Mobile_Web_Pages_WACV_2023_paper.pdf)]
 
 
+## Automatic Image Colorization Methods
+# Regression Model
+
+
+# Consider Colorization as a Vision Task
+
+
+
+
+
+
+
+
+
+
+
+
 ## Video Colorization Methods
 
 **Fast Image and Video Colorization Using Chrominance Blending** <br>
