@@ -186,15 +186,35 @@ Full name of Journal or Conference
 2022 Computational Visual Media
 [[Paper](https://link.springer.com/article/10.1007/s41095-021-0228-6)]
 
+**Eliminating Gradient Conflict in Reference-based Line-Art Colorization** <br>
+*Zekun Li, Zhengyang Geng, Zhao Kang, Wenyu Chen, and Yibo Yang* <br>
+2022 European Conference on Computer Vision
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-031-19790-1_35)]
 
+**Semantic-Sparse Colorization Network for Deep Exemplar-based Colorization** <br>
+*Yunpeng Bai, Chao Dong, Zenghao Chai, Andong Wang, Zhengzhuo Xu, and Chun Yuan* <br>
+2022 European Conference on Computer Vision
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136660495.pdf)]
 
+**Active Colorization for Cartoon Line Drawings** <br>
+*Shu-Yu Chen, Jia-Qi Zhang, Lin Gao, Yue He, Shihong Xia, Min Shi, and Fang-Lue Zhang* <br>
+2022 IEEE Transactions on Visualization and Computer Graphics
+[[Paper](https://ieeexplore.ieee.org/document/9143503)]
 
+**Self-driven Dual-path Learning for Reference-based Line Art Colorization under Limited Data** <br>
+*Shukai Wu, Xiao Yan, Weiming Liu, Shuchang Xu, and Sanyuan Zhang* <br>
+2023 IEEE Transactions on Circuits and Systems for Video Technology 
+[[Paper](https://ieeexplore.ieee.org/document/10182273)]
 
+**Unsupervised Deep Exemplar Colorization via Pyramid Dual Non-Local Attention** <br>
+*Hanzhang Wang, Deming Zhai, Xianming Liu, Junjun Jiang, and Wen Gao* <br>
+2023 IEEE Transactions on Image Processing
+[[Paper](https://ieeexplore.ieee.org/document/10183846)]
 
-
-
-
-
+**Pik-Fix: Restoring and Colorizing Old Photos** <br>
+*Runsheng Xu, Zhengzhong Tu, Yuanqi Du, Xiaoyu Dong, Jinlong Li, Zibo Meng, Jiaqi Ma, Alan Bovik, and Hongkai Yu* <br>
+2023 IEEE Winter Conference on Applications of Computer Vision
+[[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Xu_Pik-Fix_Restoring_and_Colorizing_Old_Photos_WACV_2023_paper.pdf)]
 
 
 ## Scribble-hint Image Colorization Methods
