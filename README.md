@@ -111,7 +111,10 @@ Full name of Journal or Conference
 2018 ACM Transactions on Graphics
 [[Paper](https://dl.acm.org/doi/10.1145/3197517.3201365)]
 
-
+**Example-Based Colourization Via Dense Encoding Pyramids** <br>
+*Chufeng Xiao, Chu Han, Zhuming Zhang, Jing Qin, Tien-Tsin Wong, Guoqiang Han, and Shengfeng He* <br>
+2019 Computer Graphics Forum
+[[Paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13659)]
 
 
 
