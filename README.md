@@ -164,7 +164,7 @@ Full name of Journal or Conference
 
 **Line Art Colorization with Concatenated Spatial Attention** <br>
 *Mingcheng Yuan, and Edgar Simo-Serra* <br>
-2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops
+2021 IEEE Conference on Computer Vision and Pattern Recognition Workshops
 [[Paper](https://openaccess.thecvf.com/content/CVPR2021W/CVFAD/papers/Yuan_Line_Art_Colorization_With_Concatenated_Spatial_Attention_CVPRW_2021_paper.pdf)]
 
 **Deep Edge-Aware Interactive Colorization against Color-Bleeding Effects** <br>
@@ -179,7 +179,7 @@ Full name of Journal or Conference
 
 **Diffusart: Enhancing Line Art Colorization with Conditional Diffusion Models** <br>
 *Hernan Carrillo, Michae ̈l Cle ́ment, Aure ́lie Bugeau, and Edgar Simo-Serra* <br>
-2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops
+2023 IEEE Conference on Computer Vision and Pattern Recognition Workshops
 [[Paper](https://openaccess.thecvf.com/content/CVPR2023W/CVFAD/papers/Carrillo_Diffusart_Enhancing_Line_Art_Colorization_With_Conditional_Diffusion_Models_CVPRW_2023_paper.pdf)]
 
 **Guiding Users to Where to Give Color Hints for Efficient Interactive Sketch Colorization via Unsupervised Region Prioritization** <br>
