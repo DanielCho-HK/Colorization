@@ -86,6 +86,37 @@ Full name of Journal or Conference
 2012 ACM Multimedia
 [[Paper](https://dl.acm.org/doi/10.1145/2393347.2393402)]
 
+**Variational Exemplar-Based Image Colorization** <br>
+*Aurélie Bugeau, Vinh-Thong Ta, and Nicolas Papadakis* <br>
+2014 IEEE Transactions on Image Processing 
+[[Paper](https://ieeexplore.ieee.org/abstract/document/6655920)]
+
+**Twin Deep Convolutional Neural Network for Example-based Image Colorization** <br>
+*Domonkos Varga, and Tam ́as Szir ́anyi* <br>
+2017 Computer Analysis of Images and Patterns
+[[Paper](https://core.ac.uk/download/pdf/94310069.pdf)]
+
+**Comicolorization: Semi-Automatic Manga Colorization** <br>
+*Chie Furusawa,  Kazuyuki Hiroshiba, Keisuke Ogaki, and Yuri Odagiri* <br>
+2017 ACM SIGGRAPH Asia Technical Briefs
+[[Paper](https://dl.acm.org/doi/10.1145/3145749.3149430)]
+
+**TextureGAN: Controlling Deep Image Synthesis with Texture Patches** <br>
+*Wenqi Xian, Patsorn Sangkloy, Varun Agrawal, Amit Raj, Jingwan Lu, Chen Fang, Fisher Yu, and James Hays* <br>
+2018 IEEE Conference on Computer Vision and Pattern Recognition
+[[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xian_TextureGAN_Controlling_Deep_CVPR_2018_paper.pdf)]
+
+**Deep Exemplar-based Colorization** <br>
+*Mingming He, Dongdong Chen, Jing Liao, Pedro V. Sander, and Lu Yuan* <br>
+2018 ACM Transactions on Graphics
+[[Paper](https://dl.acm.org/doi/10.1145/3197517.3201365)]
+
+
+
+
+
+
+
 
 
 
