@@ -26,7 +26,7 @@ Full name of Journal or Conference
 ```
 - c. Submit the pull request to this branch.
 
-## Related Surveys
+# Related Surveys
 
 **Image Colorization: A Survey and Dataset** <br>
 *Saeed Anwar, Muhammad Tahir, Chongyi Li, Ajmal Mian, Fahad Shahbaz Khan, and Abdul Wahab Muzaffar* <br>
@@ -44,7 +44,7 @@ Full name of Journal or Conference
 [[Paper](https://www.sciencedirect.com/science/article/pii/S2468502X22000389)]
 
 
-## Reference-based Image Colorization Methods
+# Reference-based Image Colorization Methods
 
 **Transferring Color to Greyscale Images** <br>
 *Tomihisa Welsh, Michael Ashikhmin, and Klaus Mueller* <br>
@@ -217,7 +217,7 @@ Full name of Journal or Conference
 [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Xu_Pik-Fix_Restoring_and_Colorizing_Old_Photos_WACV_2023_paper.pdf)]
 
 
-## Scribble-hint Image Colorization Methods
+# Scribble-hint Image Colorization Methods
 
 **Colorization using Optimization** <br>
 *Anat Levin, Dani Lischinski, and Yair Weiss* <br>
@@ -320,7 +320,7 @@ Full name of Journal or Conference
 [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Yun_iColoriT_Towards_Propagating_Local_Hints_to_the_Right_Region_in_WACV_2023_paper.pdf)]
 
 
-## Text-hint Image Colorization Methods
+# Text-hint Image Colorization Methods
 
 **Language-Based Image Editing with Recurrent Attentive Models** <br>
 *Jianbo Chen, Yelong Shen, Jianfeng Gao, Jingjing Liu, and Xiaodong Liu* <br>
@@ -373,7 +373,7 @@ Full name of Journal or Conference
 [[Paper](https://arxiv.org/abs/2305.15217)]
 
 
-## Palette-hint Image Colorization Methods
+# Palette-hint Image Colorization Methods
 
 **Affective Image Colorization** <br>
 *Xiao-Hui Wang, Jia Jia, Han-Yu Liao, and Lian-Hong Cai* <br>
@@ -386,7 +386,7 @@ Full name of Journal or Conference
 [[Paper](https://gfx.cs.princeton.edu/pubs/Chang_2015_PPR/index.php)]
 
 
-## Multimodel-hint Image Colorization Methods
+# Multimodel-hint Image Colorization Methods
 
 **Interactive Deep Colorization using Simultaneous Global and Local Inputs** <br>
 *Yi Xiao, Peiyao Zhou, Yan Zheng, and Chi-Sing Leung* <br>
@@ -404,7 +404,7 @@ Full name of Journal or Conference
 [[Paper](https://dl.acm.org/doi/abs/10.1145/3550454.3555471)]
 
 
-## Domain-Specific Colorization Methods
+# Domain-Specific Colorization Methods
 
 **Infrared Colorization Using Deep Convolutional Neural Networks** <br>
 *Matthias Limmer, and Hendrik P.A. Lensch* <br>
@@ -457,14 +457,11 @@ Full name of Journal or Conference
 [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Kikuchi_Generative_Colorization_of_Structured_Mobile_Web_Pages_WACV_2023_paper.pdf)]
 
 
-## Automatic Image Colorization Methods
-# Regression Model
+# Automatic Image Colorization Methods
+## Regression Model
 
 
-# Consider Colorization as a Vision Task
-
-
-
+## Consider Colorization as a Vision Task
 
 
 
@@ -474,7 +471,10 @@ Full name of Journal or Conference
 
 
 
-## Video Colorization Methods
+
+
+
+# Video Colorization Methods
 
 **Fast Image and Video Colorization Using Chrominance Blending** <br>
 *Liron Yatziv, and Guillermo Sapiro* <br>
