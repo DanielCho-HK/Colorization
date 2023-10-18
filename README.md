@@ -51,8 +51,17 @@ Full name of Journal or Conference
 2002 ACM Transactions on Graphics
 [[Paper](https://dl.acm.org/doi/10.1145/566654.566576)]
 
+**Local Color Transfer via Probabilistic Segmentation by Expectation-Maximization** <br>
+*Yu-Wing Tai, Jiaya Jia, and Chi-Keung Tang* <br>
+2005 IEEE Conference on Computer Vision and Pattern Recognition
+[[Paper](https://ieeexplore.ieee.org/abstract/document/1467343)]
 
+**Colorization by Example** <br>
+*Revital Ironi, Daniel Cohen-Or, and Dani Lischinski* <br>
+2005 Eurographics Symposium on Rendering
+[[Paper](https://diglib.eg.org/handle/10.2312/EGWR.EGSR05.201-210)]
 
+**Automatic Image Colorization via Multimodal Predictions** <br>
 
 
 
