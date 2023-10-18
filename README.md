@@ -101,6 +101,26 @@ Full name of Journal or Conference
 2017 ACM Transactions on Graphics
 [[Paper](https://dl.acm.org/doi/10.1145/3072959.3073703)]
 
+**User-Guided Deep Anime Line Art Colorization with Conditional Adversarial Networks** <br>
+*Yuanzheng Ci, Xinzhu Ma, Zhihui Wang, Haojie Li, and Zhongxuan Luo* <br>
+2018 ACM Multimedia
+[[Paper](https://dl.acm.org/doi/10.1145/3240508.3240661)]
+
+**Two-stage Sketch Colorization** <br>
+*Lvmin Zhang, Chengze Li, Tien-Tsin Wong, Yi Ji, and Chunping Liu* <br>
+2018 ACM Transactions on Graphics
+[[Paper](https://dl.acm.org/doi/abs/10.1145/3272127.3275090)]
+
+**User-Guided Line Art Flat Filling with Split Filling Mechanism** <br>
+*Lvmin Zhang, Chengze Li, Edgar Simo-Serra, Yi Ji, Tien-Tsin Wong, and Chunping Liu* <br>
+2021 IEEE Conference on Computer Vision and Pattern Recognition
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_User-Guided_Line_Art_Flat_Filling_With_Split_Filling_Mechanism_CVPR_2021_paper.pdf)]
+
+
+
+
+
+
 
 
 
