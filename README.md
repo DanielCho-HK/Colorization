@@ -132,13 +132,19 @@ Full name of Journal or Conference
 [[Paper](https://ieeexplore.ieee.org/document/9515572)]
 
 **Diffusart: Enhancing Line Art Colorization with Conditional Diffusion Models** <br>
-*Hernan Carrillo1, Michae ̈l Cle ́ment, Aure ́lie Bugeau, and Edgar Simo-Serra* <br>
+*Hernan Carrillo, Michae ̈l Cle ́ment, Aure ́lie Bugeau, and Edgar Simo-Serra* <br>
 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops
 [[Paper](https://openaccess.thecvf.com/content/CVPR2023W/CVFAD/papers/Carrillo_Diffusart_Enhancing_Line_Art_Colorization_With_Conditional_Diffusion_Models_CVPRW_2023_paper.pdf)]
 
+**Guiding Users to Where to Give Color Hints for Efficient Interactive Sketch Colorization via Unsupervised Region Prioritization** <br>
+*Youngin Cho, Junsoo Lee, Soyoung Yang, Juntae Kim, Yeojeong Park, Haneol Lee, Mohammad Azam Khan, Daesik Kim, and Jaegul Choo* <br>
+2023 IEEE Winter Conference on Applications of Computer Vision
+[[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Cho_Guiding_Users_to_Where_To_Give_Color_Hints_for_Efficient_WACV_2023_paper.pdf)]
 
-
-
+**iColoriT: Towards Propagating Local Hints to the Right Region in Interactive Colorization by Leveraging Vision Transformer** <br>
+*Jooyeol Yun, Sanghyeon Lee, Minho Park, and Jaegul Choo* <br>
+2023 IEEE Winter Conference on Applications of Computer Vision
+[[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Yun_iColoriT_Towards_Propagating_Local_Hints_to_the_Right_Region_in_WACV_2023_paper.pdf)]
 
 
 
