@@ -62,9 +62,19 @@ Full name of Journal or Conference
 [[Paper](https://diglib.eg.org/handle/10.2312/EGWR.EGSR05.201-210)]
 
 **Automatic Image Colorization via Multimodal Predictions** <br>
+*Guillaume Charpiat, Matthias Hofmann, and Bernhard Sch ̈olkopf* <br>
+2008 European Conference on Computer Vision
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-540-88690-7_10)]
 
+**Intrinsic Colorization** <br>
+*Xiaopei Liu, Liang Wan, Yingge Qu, Tien-Tsin Wong, Stephen Lin, Chi-Sing Leung, and Pheng-Ann Heng* <br>
+2008 ACM Transactions on Graphics
+[[Paper](https://dl.acm.org/doi/10.1145/1409060.1409105)]
 
-
+**Automatic colorization of grayscale images using multiple images on the Web** <br>
+*Yuji Morimoto, Yuichi Taguchi, and Takeshi Naemura* <br>
+2009 ACM SIGGRAPH
+[[Paper](https://dl.acm.org/doi/10.1145/1597990.1598049)]
 
 
 
