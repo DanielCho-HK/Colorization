@@ -76,9 +76,15 @@ Full name of Journal or Conference
 2009 ACM SIGGRAPH
 [[Paper](https://dl.acm.org/doi/10.1145/1597990.1598049)]
 
+**Semantic Colorization with Internet Images** <br>
+*Alex Yong-Sang Chia, Shaojie Zhuo, Raj Kumar Gupta, Yu-Wing Tai, Siu-Yeung Cho, Ping Tan, and Stephen Lin* <br>
+2011 ACM Transactions on Graphics
+[[Paper](https://dl.acm.org/doi/10.1145/2070781.2024190)]
 
-
-
+**Image Colorization Using Similar Images** <br>
+*Raj Kumar Gupta, Alex Yong-Sang Chia, Deepu Rajan, Ee Sin Ng, and Huang Zhiyong* <br>
+2012 ACM Multimedia
+[[Paper](https://dl.acm.org/doi/10.1145/2393347.2393402)]
 
 
 
