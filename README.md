@@ -512,8 +512,25 @@ Full name of Journal or Conference
 2022 AAAI Conference on Artificial Intelligence
 [[Paper](https://arxiv.org/abs/2201.04364)]
 
+**BIGPrior: Toward Decoupling Learned Prior Hallucination and Data Fidelity in Image Restoration** <br>
+*Majed El Helou, and Sabine Süsstrunk* <br>
+2022 IEEE Transactions on Image Processing
+[[Paper](https://arxiv.org/abs/2011.01406)]
 
+**Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation** <br>
+*Xingang Pan , Xiaohang Zhan , Bo Dai , Dahua Lin, Chen Change Loy, and Ping Luo* <br>
+2022 IEEE Transactions on Pattern Analysis and Machine Intelligence
+[[Paper](https://www.computer.org/csdl/journal/tp/2022/11/09547753/1x9Tvtcuj5e)]
 
+**Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model** <br>
+*Yinhuai Wang, Jiwen Yu, and Jian Zhang* <br>
+2023 International Conference on Learning Representations
+[[Paper](https://arxiv.org/pdf/2212.00490.pdf)]
+
+**GLEAN: Generative Latent Bank for Image Super-Resolution and Beyond** <br>
+*Kelvin C.K. Chan, Xiangyu Xu, Xintao Wang, Jinwei Gu, and Chen Change Loy* <br>
+2023 IEEE Transactions on Pattern Analysis and Machine Intelligence
+[[Paper](https://ieeexplore.ieee.org/document/9808408)]
 
 
 # Video Colorization Methods
