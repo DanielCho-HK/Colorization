@@ -505,6 +505,17 @@ Full name of Journal or Conference
 [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.pdf)]
 
 
+### Image Restoration and Enhancement
+
+**SCSNet: An Efficient Paradigm for Learning Simultaneously Image Colorization and Super-resolution** <br>
+*Jiangning Zhang, Chao Xu, Jian Li, Yue Han, Yabiao Wang, Ying Tai, and Yong Liu* <br>
+2022 AAAI Conference on Artificial Intelligence
+[[Paper](https://arxiv.org/abs/2201.04364)]
+
+
+
+
+
 # Video Colorization Methods
 
 **Fast Image and Video Colorization Using Chrominance Blending** <br>
