@@ -581,6 +581,34 @@ Full name of Journal or Conference
 [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_Towards_Vivid_and_Diverse_Image_Colorization_With_Generative_Color_Prior_ICCV_2021_paper.pdf)]
 
 
+## Semantic Colorization 
+
+### Global Level
+
+**Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification** <br>
+*Satoshi Iizuka, Edgar Simo-Serra, and Hiroshi Ishikawa* <br>
+2016 ACM Transactions on Graphics
+[[Paper](https://dl.acm.org/doi/10.1145/2897824.2925974)]
+
+**ChromaGAN: Adversarial Picture Colorization with Semantic Class Distribution** <br>
+*Patricia Vitoria, Lara Raad, and Coloma Ballester* <br>
+2020 IEEE Winter Conference on Applications of Computer Vision
+[[Paper](https://arxiv.org/abs/1907.09837)]
+
+
+### Instance Level 
+
+### Pixel Level
+
+
+
+
+
+
+
+
+
+
 # Video Colorization Methods
 
 **Fast Image and Video Colorization Using Chrominance Blending** <br>
