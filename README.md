@@ -476,13 +476,33 @@ Full name of Journal or Conference
 
 ### Representation Learning
 
+**Colorful Image Colorization** <br>
+*Richard Zhang, Phillip Isola, and Alexei A. Efros* <br>
+2016 European Conference on Computer Vision
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-319-46487-9_40)]
+
+**Learning Representations for Automatic Colorization** <br>
+*Gustav Larsson, Michael Maire, and Gregory Shakhnarovich* <br>
+2016 European Conference on Computer Vision
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-319-46493-0_35)]
+
+**Colorization as a Proxy Task for Visual Understanding** <br>
+*Gustav Larsson, Michael Maire, and Gregory Shakhnarovich* <br>
+2017 IEEE Conference on Computer Vision and Pattern Recognition
+[[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Larsson_Colorization_as_a_CVPR_2017_paper.pdf)]
 
 
+### Image-to-Image Translation
 
+**Generalized Deep Image to Image Regression** <br>
+*Venkataraman Santhanam, Vlad I. Morariu, and Larry S. Davis* <br>
+2017 IEEE Conference on Computer Vision and Pattern Recognition
+[[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Santhanam_Generalized_Deep_Image_CVPR_2017_paper.pdf)]
 
-
-
-
+**Image-to-Image Translation with Conditional Adversarial Networks** <br>
+*Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, and Alexei A. Efros* <br>
+2017 IEEE Conference on Computer Vision and Pattern Recognition
+[[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.pdf)]
 
 
 # Video Colorization Methods
