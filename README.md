@@ -201,6 +201,11 @@ Full name of Journal or Conference
 2022 IEEE Transactions on Visualization and Computer Graphics
 [[Paper](https://ieeexplore.ieee.org/document/9143503)]
 
+**Attention-Aware Anime Line Drawing Colorization** <br>
+*Yu Cao, Hao Tian, and P. Y. Mok* <br>
+2023 IEEE International Conference on Multimedia & Expo
+[[Paper](https://arxiv.org/abs/2212.10988)]
+
 **Self-driven Dual-path Learning for Reference-based Line Art Colorization under Limited Data** <br>
 *Shukai Wu, Xiao Yan, Weiming Liu, Shuchang Xu, and Sanyuan Zhang* <br>
 2023 IEEE Transactions on Circuits and Systems for Video Technology 
