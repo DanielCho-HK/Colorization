@@ -472,7 +472,7 @@ Full name of Journal or Conference
 [[Paper](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Deshpande_Learning_Large-Scale_Automatic_ICCV_2015_paper.pdf)]
 
 
-## Consider Colorization as a Vision Task
+## Consider Colorization as A Vision Task
 
 ### Representation Learning
 
@@ -531,6 +531,42 @@ Full name of Journal or Conference
 *Kelvin C.K. Chan, Xiangyu Xu, Xintao Wang, Jinwei Gu, and Chen Change Loy* <br>
 2023 IEEE Transactions on Pattern Analysis and Machine Intelligence
 [[Paper](https://ieeexplore.ieee.org/document/9808408)]
+
+
+## Diverse Colorization
+
+**Automatic Image Colorization via Multimodal Predictions** <br>
+*Guillaume Charpiat, Matthias Hofmann, and Bernhard Sch ̈olkopf* <br>
+2008 European Conference on Computer Vision
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-540-88690-7_10)]
+
+**Pixel Recurrent Neural Networks** <br>
+*Aaron van den Oord, Nal Kalchbrenner, and Koray Kavukcuoglu* <br>
+2016 International Conference on Machine Learning
+[[Paper](https://proceedings.mlr.press/v48/oord16.pdf)]
+
+**PixColor: Pixel Recursive Colorization** <br>
+*Sergio Guadarrama, Ryan Dahl, David Bieber, Mohammad Norouzi, Jonathon Shlens, and Kevin Murphy* <br>
+2017 British Machine Vision Conference
+[[Paper](https://arxiv.org/abs/1705.07208)]
+
+**Probabilistic Image Colorization** <br>
+*Amelie Royer, Alexander Kolesnikov, and Christoph H. Lampert* <br>
+2017 British Machine Vision Conference
+[[Paper](https://arxiv.org/abs/1705.04258)]
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # Video Colorization Methods
