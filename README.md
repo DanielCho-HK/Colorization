@@ -463,12 +463,12 @@ Full name of Journal or Conference
 
 **Deep Colorization** <br>
 *Zezhou Cheng, Qingxiong Yang, and Bin Sheng* <br>
-2015 International Conference on Computer Vision
+2015 IEEE International Conference on Computer Vision
 [[Paper](https://openaccess.thecvf.com/content_iccv_2015/papers/Cheng_Deep_Colorization_ICCV_2015_paper.pdf)]
 
 **Learning Large-Scale Automatic Image Colorization** <br>
 *Aditya Deshpande, Jason Rock, and David Forsyth* <br>
-2015 International Conference on Computer Vision
+2015 IEEE International Conference on Computer Vision
 [[Paper](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Deshpande_Learning_Large-Scale_Automatic_ICCV_2015_paper.pdf)]
 
 
@@ -555,18 +555,30 @@ Full name of Journal or Conference
 2017 British Machine Vision Conference
 [[Paper](https://arxiv.org/abs/1705.04258)]
 
+**Multiple Hypothesis Colorization and Its Application to Image Compression** <br>
+*Mohammad Haris Baig, and Lorenzo Torresani* <br>
+2017 Computer Vision and Image Understanding
+[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314217300267)]
 
+**Learning Diverse Image Colorization** <br>
+*Aditya Deshpande, Jiajun Lu, Mao-Chuang Yeh, Min Jin Chong, and David Forsyth* <br>
+2017 IEEE Conference on Computer Vision and Pattern Recognition
+[[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Deshpande_Learning_Diverse_Image_CVPR_2017_paper.pdf)]
 
+**Unsupervised Diverse Colorization via Generative Adversarial Networks** <br>
+*Yun Cao, Zhiming Zhou, Weinan Zhang, and Yong Yu* <br>
+2017 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases
+[[Paper](https://arxiv.org/abs/1702.06674)]
 
+**Structural Consistency and Controllability for Diverse Colorization** <br>
+*Safa Messaoud, David Forsyth, and Alexander G. Schwing* <br>
+2018 European Conference on Computer Vision
+[[Paper](https://openaccess.thecvf.com/content_ECCV_2018/html/Safa_Messaoud_Structural_Consistency_and_ECCV_2018_paper.html)]
 
-
-
-
-
-
-
-
-
+**Towards Vivid and Diverse Image Colorization with Generative Color Prior** <br>
+*Yanze Wu, Xintao Wang, Yu Li, Honglun Zhang, Xun Zhao, and Ying Shan* <br>
+2021 IEEE International Conference on Computer Vision
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_Towards_Vivid_and_Diverse_Image_Colorization_With_Generative_Color_Prior_ICCV_2021_paper.pdf)]
 
 
 # Video Colorization Methods
