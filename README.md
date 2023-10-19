@@ -595,6 +595,21 @@ Full name of Journal or Conference
 2020 IEEE Winter Conference on Applications of Computer Vision
 [[Paper](https://arxiv.org/abs/1907.09837)]
 
+**Broad Colorization** <br>
+*Yuxi Jin, Bin Sheng, Ping Li, and C. L. Philip Chen* <br>
+2021 IEEE Transactions on Neural Networks and Learning Systems
+[[Paper](https://ieeexplore.ieee.org/document/9132683)]
+
+**Disentangled Image Colorization via Global Anchors** <br>
+*Menghan Xia, Wenbo Hu, Tien-Tsin Wong, and Jue Wang* <br>
+2022 ACM Transactions on Graphics
+[[Paper](https://menghanxia.github.io/projects/disco/disco_main.pdf)]
+
+**DDColor: Towards Photo-Realistic Image Colorization via Dual Decoders** <br>
+*Xiaoyang Kang, Tao Yang, Wenqi Ouyang, Peiran Ren, Lingzhi Li, and Xuansong Xie* <br>
+2023 IEEE International Conference on Computer Vision
+[[Paper](https://arxiv.org/abs/2212.11613)]
+
 
 ### Instance Level 
 
