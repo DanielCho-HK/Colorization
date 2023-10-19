@@ -652,6 +652,57 @@ Full name of Journal or Conference
 [[Paper](https://arxiv.org/abs/1901.10889)]
 
 
+## Deep Neural Network-based Structure
+
+**Automatic Cartoon Colorization Based on Convolutional Neural Network** <br>
+*Domonkos Varga, Csaba Attila Szabó, and Tamás Szirányi* <br>
+2017 International Workshop on Content-Based Multimedia Indexing
+[[Paper](https://dl.acm.org/doi/10.1145/3095713.3095742)]
+
+**Deep Koalarization: Image Colorization using CNNs and Inception-Resnet-v2** <br>
+*Federico Baldassarre, Diego Gonz ́alez Mor ́ın, and Lucas Rod ́es-Guirao* <br>
+2017 Arxiv
+[[Paper](https://arxiv.org/abs/1712.03400)]
+
+**Learning a Deep Convolutional Network for Colorization in Monochrome-Color Dual-Lens System** <br>
+*Xuan Dong, Weixin Li, Xiaojie Wang, and Yunhong Wang* <br>
+2019 AAAI Conference on Artificial Intelligence
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/4837)]
+
+**A Colorization Framework for Monochrome-Color Dual-Lens Systems Using a Deep Convolutional Network** <br>
+*Xuan Dong, Weixin Li, Xiaoyan Hu, Xiaojie Wang, and Yunhong Wang* <br>
+2022 IEEE Transactions on Visualization and Computer Graphics
+[[Paper](https://ieeexplore.ieee.org/document/9188002)]
+
+
+## GAN-based Structure
+
+**cGAN-based Manga Colorization Using a Single Training Image** <br>
+*Paulina Hensman, and Kiyoharu Aizawa* <br>
+2017 IAPR International Conference on Document Analysis and Recognition
+[[Paper](https://arxiv.org/abs/1706.06918)]
+
+**Image Colorization using Generative Adversarial Networks** <br>
+*Kamyar Nazeri, Eric Ng, and Mehran Ebrahimi* <br>
+2020 International Conference on Machine Vision and Image Processing
+[[Paper](https://ieeexplore.ieee.org/document/9116882)]
+
+
+
+
+## Flow-based Structure
+
+**Guided Image Generation with Conditional Invertible Neural Networks** <br>
+*Lynton Ardizzone, Carsten Lüth, Jakob Kruse, Carsten Rother, and Ullrich Köthe* <br>
+2019 Arxiv
+[[Paper](https://arxiv.org/abs/1907.02392)]
+
+## Transformer-based Structure
+
+
+
+
+
 # Video Colorization Methods
 
 **Fast Image and Video Colorization Using Chrominance Blending** <br>
