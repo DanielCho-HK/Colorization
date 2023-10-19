@@ -618,15 +618,38 @@ Full name of Journal or Conference
 
 ### Instance Level 
 
+**Image Colorization By Capsule Networks** <br>
+*Go ̈khanO ̈zbulak* <br>
+2019 IEEE Conference on Computer Vision and Pattern Recognition Workshops
+[[Paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Ozbulak_Image_Colorization_by_Capsule_Networks_CVPRW_2019_paper.pdf)]
+
+**Instance-aware Image Colorization** <br>
+*Jheng-Wei Su, Hung-Kuo Chu, and Jia-Bin Huang* <br>
+2020 IEEE Conference on Computer Vision and Pattern Recognition
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Su_Instance-Aware_Image_Colorization_CVPR_2020_paper.pdf)]
+
+**Collaborative Image and Object Level Features for Image Colourisation** <br>
+*Rita Pucci, Christian Micheloni, and Niki Martinel* <br>
+2021 IEEE Conference on Computer Vision and Pattern Recognition Workshops
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021W/WiCV/papers/Pucci_Collaborative_Image_and_Object_Level_Features_for_Image_Colourisation_CVPRW_2021_paper.pdf)]
+
+**L-CoIns: Language-based Colorization with Instance Awareness** <br>
+*Zheng Chang, Shuchen Weng, Peixuan Zhang, Yu Li, Si Li, and Boxin Shi* <br>
+2023 IEEE Conference on Computer Vision and Pattern Recognition
+[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Chang_L-CoIns_Language-Based_Colorization_With_Instance_Awareness_CVPR_2023_paper.pdf)]
+
+
 ### Pixel Level
 
+**Pixel-level Semantics Guided Image Colorization** <br>
+*Jiaojiao Zhao, Li Liu, Cees G.M. Snoek, Jungong Han, and Ling Shao* <br>
+2018 British Machine Vision Conference 
+[[Paper](https://arxiv.org/abs/1808.01597)]
 
-
-
-
-
-
-
+**Pixelated Semantic Colorization** <br>
+*Jiaojiao Zhao, Jungong Han, Ling Shao, and Cees G. M. Snoek* <br>
+2020 International Journal of Computer Vision
+[[Paper](https://arxiv.org/abs/1901.10889)]
 
 
 # Video Colorization Methods
