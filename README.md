@@ -354,7 +354,7 @@ Full name of Journal or Conference
 
 **L-CoDe: Language-based Colorization using Color-object Decoupled Conditions** <br>
 *Shuchen Weng, Hao Wu, Zheng Chang, Jiajun Tang, Si Li, and Boxin Shi* <br>
-2022 Proceedings of the AAAI Conference on Artificial Intelligence
+2022 AAAI Conference on Artificial Intelligence
 [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20170)]
 
 **L-CoDer: Language-based Colorization with Color-object Decoupling Transformer** <br>
