@@ -684,8 +684,48 @@ Full name of Journal or Conference
 
 **Image Colorization using Generative Adversarial Networks** <br>
 *Kamyar Nazeri, Eric Ng, and Mehran Ebrahimi* <br>
-2020 International Conference on Machine Vision and Image Processing
+2018 International Conference on Articulated Motion and Deformable Objects
+[[Paper](https://arxiv.org/abs/1803.05400)]
+
+**ColoringWith Limited Data: Few-Shot Colorization via Memory Augmented Networks** <br>
+*Seungjoo Yoo, Hyojin Bahng, Sunghyo Chung, Junsoo Lee, Jaehyuk Chang, and Jaegul Choo* <br>
+2019 IEEE Conference on Computer Vision and Pattern Recognition
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yoo_Coloring_With_Limited_Data_Few-Shot_Colorization_via_Memory_Augmented_Networks_CVPR_2019_paper.pdf)]
+
+**Image Colorization Using Generative Adversarial Networks and Transfer Learning** <br>
+*Leila Kiani, Masoud Saeed, and Hossein Nezamabadi-pour* <br>
+2020 International Conference on Machine Vision and Image Processing 
 [[Paper](https://ieeexplore.ieee.org/document/9116882)]
+
+**Focusing on Persons: Colorizing Old Images Learning from Modern Historical Movies** <br>
+*Xin Jin, Zhonglan Li, Ke Liu, Dongqing Zou, Xiaodong Li, Xingfan Zhu, Ziyin Zhou, Qilong Sun, and Qingyu Liu* <br>
+2021 ACM International Conference on Multimedia
+[[Paper](https://arxiv.org/abs/2108.06515)]
+
+**Exploring Sketch-based Character Design Guided by Automatic Colorization** <br>
+*Rawan Alghofaili, Matthew Fisher, Richard Zhang, Michal Lukáč, and Lap-Fai Yu* <br>
+2021 Graphics Interface
+[[Paper](https://techmatt.github.io/pdfs/characterColorization.pdf)]
+
+**SCGAN: Saliency Map-Guided Colorization With Generative Adversarial Network** <br>
+*Yuzhi Zhao, Lai-Man Po, Kwok-Wai Cheung, Wing-Yin Yu, and Yasar Abbas Ur Rehman* <br>
+2021 IEEE Transactions on Circuits and Systems for Video Technology 
+[[Paper](https://ieeexplore.ieee.org/document/9257445)]
+
+**BigColor: Colorization using a Generative Color Prior for Natural Images** <br>
+*Geonung Kim, Kyoungkook Kang, Seongtae Kim, Hwayoon Lee, Sehoon Kim, Jonghyun Kim, Seung-Hwan Baek, and Sunghyun Cho* <br>
+2022 European Conference on Computer Vision
+[[Paper](https://arxiv.org/abs/2207.09685)]
+
+**Bridging the Domain Gap towards Generalization in Automatic Colorization** <br>
+*Hyejin Lee, Daehee Kim, Daeun Lee, Jinkyu Kim, and Jaekoo Lee* <br>
+2022 European Conference on Computer Vision
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136770530.pdf)]
+
+**PalGAN: Image Colorization with Palette Generative Adversarial Networks** <br>
+*Yi Wang, Menghan Xia, Lu Qi, Jing Shao, and Yu Qiao* <br>
+2022 European Conference on Computer Vision
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136750268.pdf)]
 
 
 
