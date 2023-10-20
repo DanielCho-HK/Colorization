@@ -728,8 +728,6 @@ Full name of Journal or Conference
 [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136750268.pdf)]
 
 
-
-
 ## Flow-based Structure
 
 **Guided Image Generation with Conditional Invertible Neural Networks** <br>
@@ -737,10 +735,51 @@ Full name of Journal or Conference
 2019 Arxiv
 [[Paper](https://arxiv.org/abs/1907.02392)]
 
+
 ## Transformer-based Structure
 
+**Colorization Transformer** <br>
+*Manoj Kumar, Dirk Weissenborn, and Nal Kalchbrenner* <br>
+2021 International Conference on Learning Representations 
+[[Paper](https://arxiv.org/abs/2102.04432)]
+
+**ColorFormer: Image Colorization via Color Memory assisted Hybrid-attention Transformer** <br>
+*Xiaozhong Ji, Boyuan Jiang, Donghao Luo, Guangpin Tao, Wenqing Chu, Zhifeng Xie, Chengjie Wang, and Ying Tai* <br>
+2022 European Conference on Computer Vision
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136760020.pdf)]
+
+**CT2: Colorization Transformer via Color Tokens** <br>
+*Shuchen Weng, Jimeng Sun, Yu Li, Si Li, and Boxin Shi* <br>
+2022 European Conference on Computer Vision
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670001.pdf)]
+
+**UniColor: A Unified Framework for Multi-Modal Colorization with Transformer** <br>
+*Zhitong Huang, Nanxuan Zhao, and Jing Liao* <br>
+2022 ACM Transactions on Graphics
+[[Paper](https://dl.acm.org/doi/abs/10.1145/3550454.3555471)]
+
+**DDColor: Towards Photo-Realistic Image Colorization via Dual Decoders** <br>
+*Xiaoyang Kang, Tao Yang, Wenqi Ouyang, Peiran Ren, Lingzhi Li, and Xuansong Xie* <br>
+2023 IEEE International Conference on Computer Vision
+[[Paper](https://arxiv.org/abs/2212.11613)]
+
+**iColoriT: Towards Propagating Local Hints to the Right Region in Interactive Colorization by Leveraging Vision Transformer** <br>
+*Jooyeol Yun, Sanghyeon Lee, Minho Park, and Jaegul Choo* <br>
+2023 IEEE Winter Conference on Applications of Computer Vision
+[[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Yun_iColoriT_Towards_Propagating_Local_Hints_to_the_Right_Region_in_WACV_2023_paper.pdf)]
 
 
+## Diffusion-based Structure
+
+**Palette: Image-to-Image Diffusion Models** <br>
+*Chitwan Saharia, William Chan, Huiwen Chang, Chris A. Lee, Jonathan Ho, Tim Salimans, David J. Fleet, and Mohammad Norouzi* <br>
+2022 ACM SIGGRAPH
+[[Paper](https://dl.acm.org/doi/fullHtml/10.1145/3528233.3530757)]
+
+**Improved Diffusion-based Image Colorization via Piggybacked Models** <br>
+*Hanyuan Liu, Jinbo Xing, Minshan Xie, Chengze Li, and Tien-Tsin Wong* <br>
+2023 Arxiv
+[[Paper](https://arxiv.org/abs/2304.11105)]
 
 
 # Video Colorization Methods
