@@ -254,11 +254,6 @@ Full name of Journal or Conference
 2009 Computer Graphics Forum
 [[Paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2009.01400.x)]
 
-**Video Colorization Using Parallel Optimization in Feature Space** <br>
-*Bin Sheng, Hanqiu Sun, Marcus Magnor, and Ping Li* <br>
-2014 IEEE Transactions on Circuits and Systems for Video Technology
-[[Paper](https://ieeexplore.ieee.org/abstract/document/6575125)]
-
 **Scribbler: Controlling Deep Image Synthesis with Sketch and Color** <br>
 *Patsorn Sangkloy, Jingwan Lu, Chen Fang, Fisher Yu, and James Hays* <br>
 2017 IEEE Conference on Computer Vision and Pattern Recognition
@@ -805,7 +800,7 @@ Full name of Journal or Conference
 [[Paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Ben-Zrihem_Approximate_Nearest_Neighbor_2015_CVPR_paper.pdf)]
 
 **Blind Video Temporal Consistency** <br>
-*Nicolas Bonneel1, James Tompkin, Kalyan Sunkavalli, Deqing Sun, Sylvain Paris, and Hanspeter Pfister* <br>
+*Nicolas Bonneel, James Tompkin, Kalyan Sunkavalli, Deqing Sun, Sylvain Paris, and Hanspeter Pfister* <br>
 2015 ACM Transactions on Graphics 
 [[Paper](https://dl.acm.org/doi/pdf/10.1145/2816795.2818107?casa_token=NZgm8mTGYFYAAAAA:iA9_8-FPDwbCgfxaODhuEkixap_Be81FWKw6KqU6dN47WliotTB-WxtJHZOaWUsyzT6Uu10s5TXejw)]
 
