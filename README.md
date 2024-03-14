@@ -464,19 +464,6 @@ Year Full name of Journal or Conference
 
 # Automatic Image Colorization Methods
 
-## Regression Model
-
-**Deep Colorization** <br>
-*Zezhou Cheng, Qingxiong Yang, and Bin Sheng* <br>
-2015 IEEE International Conference on Computer Vision
-[[Paper](https://openaccess.thecvf.com/content_iccv_2015/papers/Cheng_Deep_Colorization_ICCV_2015_paper.pdf)]
-
-**Learning Large-Scale Automatic Image Colorization** <br>
-*Aditya Deshpande, Jason Rock, and David Forsyth* <br>
-2015 IEEE International Conference on Computer Vision
-[[Paper](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Deshpande_Learning_Large-Scale_Automatic_ICCV_2015_paper.pdf)]
-
-
 ## Consider Colorization as A Vision Task
 
 ### Representation Learning
@@ -653,6 +640,16 @@ Year Full name of Journal or Conference
 
 
 ## Deep Neural Network-based Structure
+
+**Deep Colorization** <br>
+*Zezhou Cheng, Qingxiong Yang, and Bin Sheng* <br>
+2015 IEEE International Conference on Computer Vision
+[[Paper](https://openaccess.thecvf.com/content_iccv_2015/papers/Cheng_Deep_Colorization_ICCV_2015_paper.pdf)]
+
+**Learning Large-Scale Automatic Image Colorization** <br>
+*Aditya Deshpande, Jason Rock, and David Forsyth* <br>
+2015 IEEE International Conference on Computer Vision
+[[Paper](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Deshpande_Learning_Large-Scale_Automatic_ICCV_2015_paper.pdf)]
 
 **Automatic Cartoon Colorization Based on Convolutional Neural Network** <br>
 *Domonkos Varga, Csaba Attila Szabó, and Tamás Szirányi* <br>
