@@ -391,7 +391,7 @@ Year Full name of Journal or Conference
 [[Paper](https://gfx.cs.princeton.edu/pubs/Chang_2015_PPR/index.php)]
 
 
-# Multimodel-hint Image Colorization Methods
+# Multimodel-hint Methods
 
 **Interactive Deep Colorization using Simultaneous Global and Local Inputs** <br>
 *Yi Xiao, Peiyao Zhou, Yan Zheng, and Chi-Sing Leung* <br>
@@ -541,7 +541,7 @@ Year Full name of Journal or Conference
 ## Diverse Colorization
 
 **Automatic Image Colorization via Multimodal Predictions** <br>
-*Guillaume Charpiat, Matthias Hofmann, and Bernhard Sch ̈olkopf* <br>
+*Guillaume Charpiat, Matthias Hofmann, and Bernhard Schölkopf* <br>
 2008 European Conference on Computer Vision
 [[Paper](https://link.springer.com/chapter/10.1007/978-3-540-88690-7_10)]
 
@@ -619,7 +619,7 @@ Year Full name of Journal or Conference
 ### Instance Level 
 
 **Image Colorization By Capsule Networks** <br>
-*Go ̈khanO ̈zbulak* <br>
+*Gökhan Özbulak* <br>
 2019 IEEE Conference on Computer Vision and Pattern Recognition Workshops
 [[Paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Ozbulak_Image_Colorization_by_Capsule_Networks_CVPRW_2019_paper.pdf)]
 
@@ -660,7 +660,7 @@ Year Full name of Journal or Conference
 [[Paper](https://dl.acm.org/doi/10.1145/3095713.3095742)]
 
 **Deep Koalarization: Image Colorization using CNNs and Inception-Resnet-v2** <br>
-*Federico Baldassarre, Diego Gonz ́alez Mor ́ın, and Lucas Rod ́es-Guirao* <br>
+*Federico Baldassarre, Diego González Morín, and Lucas Rodés-Guirao* <br>
 2017 Arxiv
 [[Paper](https://arxiv.org/abs/1712.03400)]
 
@@ -781,6 +781,11 @@ Year Full name of Journal or Conference
 2023 Arxiv
 [[Paper](https://arxiv.org/abs/2304.11105)]
 
+**Diffusing Colors: Image Colorization with Text Guided Diffusion** <br>
+*Nir Zabari, PictureAharon Azulay, PictureAlexey Gorkor, PictureTavi Halperin and PictureOhad Fried* <br>
+2023 ACM SIGGRAPH
+[[Paper](https://dl.acm.org/doi/10.1145/3610548.3618180)]
+
 
 # Video Colorization Methods
 
@@ -866,7 +871,7 @@ Year Full name of Journal or Conference
 
 **Blind Video Temporal Consistency via Deep Video Prior** <br>
 *Chenyang Lei, Yazhou Xing, and Qifeng Chen* <br>
-2020 Conference on Neural Information Processing Systems
+2020 Advances in Neural Information Processing Systems
 [[Paper](https://proceedings.neurips.cc/paper/2020/file/0c0a7566915f4f24853fc4192689aa7e-Paper.pdf)]
 
 **Reference-Based Video Colorization with Spatiotemporal Correspondence** <br>
@@ -875,7 +880,7 @@ Year Full name of Journal or Conference
 [[Paper](https://arxiv.org/abs/2011.12528)]
 
 **The Animation Transformer: Visual Correspondence via Segment Matching** <br>
-*Evan Casey, V ́ıctor Pe ́rez, and Zhuoru Li* <br>
+*Evan Casey, Víctor Pérez, and Zhuoru Li* <br>
 2021 IEEE International Conference on Computer Vision
 [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Casey_The_Animation_Transformer_Visual_Correspondence_via_Segment_Matching_ICCV_2021_paper.html)]
 
