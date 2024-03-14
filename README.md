@@ -325,7 +325,7 @@ Year Full name of Journal or Conference
 [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Yun_iColoriT_Towards_Propagating_Local_Hints_to_the_Right_Region_in_WACV_2023_paper.pdf)]
 
 
-# Text-hint Methods
+# Text-based Methods
 
 **Language-Based Image Editing with Recurrent Attentive Models** <br>
 *Jianbo Chen, Yelong Shen, Jianfeng Gao, Jingjing Liu, and Xiaodong Liu* <br>
@@ -374,11 +374,11 @@ Year Full name of Journal or Conference
 
 **L-CAD: Language-based Colorization with Any-level Descriptions** <br>
 *Zheng Chang, Shuchen Weng, Peixuan Zhang, Yu Li, Si Li, and Boxin Shi* <br>
-2023 Arxiv
+2023 Advances in Neural Information Processing Systems
 [[Paper](https://arxiv.org/abs/2305.15217)]
 
 
-# Palette-hint Image Colorization Methods
+# Palette-based Methods
 
 **Affective Image Colorization** <br>
 *Xiao-Hui Wang, Jia Jia, Han-Yu Liao, and Lian-Hong Cai* <br>
