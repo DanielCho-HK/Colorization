@@ -221,13 +221,13 @@ Year Full name of Journal or Conference
 2023 IEEE Winter Conference on Applications of Computer Vision
 [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Xu_Pik-Fix_Restoring_and_Colorizing_Old_Photos_WACV_2023_paper.pdf)]
 
-*AnimeDiffusion: Anime Diffusion Colorization** <br>
+**AnimeDiffusion: Anime Diffusion Colorization** <br>
 *Yu Cao, Xiangqiao Meng, P. Y. Mok, Tong-Yee Lee, Xueting Liu, and Ping Li* <br>
 2024 IEEE Transactions on Visualization and Computer Graphics
 [[Paper](https://ieeexplore.ieee.org/document/10412677)]
 
 
-# Scribble-hint Image Colorization Methods
+# Scribble-hint Methods
 
 **Colorization using Optimization** <br>
 *Anat Levin, Dani Lischinski, and Yair Weiss* <br>
@@ -310,7 +310,7 @@ Year Full name of Journal or Conference
 [[Paper](https://ieeexplore.ieee.org/document/9515572)]
 
 **Diffusart: Enhancing Line Art Colorization with Conditional Diffusion Models** <br>
-*Hernan Carrillo, Michae ̈l Cle ́ment, Aure ́lie Bugeau, and Edgar Simo-Serra* <br>
+*Hernan Carrillo, Michaël Clément, Aurélie Bugeau, and Edgar Simo-Serra* <br>
 2023 IEEE Conference on Computer Vision and Pattern Recognition Workshops
 [[Paper](https://openaccess.thecvf.com/content/CVPR2023W/CVFAD/papers/Carrillo_Diffusart_Enhancing_Line_Art_Colorization_With_Conditional_Diffusion_Models_CVPRW_2023_paper.pdf)]
 
@@ -325,7 +325,7 @@ Year Full name of Journal or Conference
 [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Yun_iColoriT_Towards_Propagating_Local_Hints_to_the_Right_Region_in_WACV_2023_paper.pdf)]
 
 
-# Text-hint Image Colorization Methods
+# Text-hint Methods
 
 **Language-Based Image Editing with Recurrent Attentive Models** <br>
 *Jianbo Chen, Yelong Shen, Jianfeng Gao, Jingjing Liu, and Xiaodong Liu* <br>
