@@ -44,7 +44,7 @@ Year Full name of Journal or Conference
 [[Paper](https://www.sciencedirect.com/science/article/pii/S2468502X22000389)]
 
 
-# Reference-based Image Colorization Methods
+# Reference-based Methods
 
 **Transferring Color to Greyscale Images** <br>
 *Tomihisa Welsh, Michael Ashikhmin, and Klaus Mueller* <br>
@@ -62,7 +62,7 @@ Year Full name of Journal or Conference
 [[Paper](https://diglib.eg.org/handle/10.2312/EGWR.EGSR05.201-210)]
 
 **Automatic Image Colorization via Multimodal Predictions** <br>
-*Guillaume Charpiat, Matthias Hofmann, and Bernhard Sch ̈olkopf* <br>
+*Guillaume Charpiat, Matthias Hofmann, and Bernhard Schölkopf* <br>
 2008 European Conference on Computer Vision
 [[Paper](https://link.springer.com/chapter/10.1007/978-3-540-88690-7_10)]
 
@@ -73,7 +73,7 @@ Year Full name of Journal or Conference
 
 **Automatic colorization of grayscale images using multiple images on the Web** <br>
 *Yuji Morimoto, Yuichi Taguchi, and Takeshi Naemura* <br>
-2009 ACM SIGGRAPH
+2009 ACM SIGGRAPH Talks
 [[Paper](https://dl.acm.org/doi/10.1145/1597990.1598049)]
 
 **Semantic Colorization with Internet Images** <br>
@@ -92,7 +92,7 @@ Year Full name of Journal or Conference
 [[Paper](https://ieeexplore.ieee.org/abstract/document/6655920)]
 
 **Twin Deep Convolutional Neural Network for Example-based Image Colorization** <br>
-*Domonkos Varga, and Tam ́as Szir ́anyi* <br>
+*Domonkos Varga, and Tamás Szirányi* <br>
 2017 Computer Analysis of Images and Patterns
 [[Paper](https://core.ac.uk/download/pdf/94310069.pdf)]
 
@@ -177,7 +177,7 @@ Year Full name of Journal or Conference
 [[Paper](https://ieeexplore.ieee.org/document/9566701)]
 
 **Super-Attention for Exemplar-Based Image Colorization** <br>
-*Hernan Carrillo, Micha ̈el Cl ́ement, and Aur ́elie Bugeau* <br>
+*Hernan Carrillo, Michaël Clément, and Aurélie Bugeau* <br>
 2022 Asian Conference on Computer Vision
 [[Paper](https://openaccess.thecvf.com/content/ACCV2022/papers/Camilo_Super-attention_for_exemplar-based_image_colorization_ACCV_2022_paper.pdf)]
 
@@ -220,6 +220,11 @@ Year Full name of Journal or Conference
 *Runsheng Xu, Zhengzhong Tu, Yuanqi Du, Xiaoyu Dong, Jinlong Li, Zibo Meng, Jiaqi Ma, Alan Bovik, and Hongkai Yu* <br>
 2023 IEEE Winter Conference on Applications of Computer Vision
 [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Xu_Pik-Fix_Restoring_and_Colorizing_Old_Photos_WACV_2023_paper.pdf)]
+
+*AnimeDiffusion: Anime Diffusion Colorization** <br>
+*Yu Cao, Xiangqiao Meng, P. Y. Mok, Tong-Yee Lee, Xueting Liu, and Ping Li* <br>
+2024 IEEE Transactions on Visualization and Computer Graphics
+[[Paper](https://ieeexplore.ieee.org/document/10412677)]
 
 
 # Scribble-hint Image Colorization Methods
