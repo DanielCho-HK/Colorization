@@ -9,7 +9,7 @@ This project is associated with our survey paper which comprehensively reviews t
 
 **State-of-the-Colorization: A Survey [[Paper](https://arxiv.org/abs/2112.13592)]  [[Project](https://fnzhan.com/Generative-AI/)]**  <br>
 [Yu Cao](https://scholar.google.com/citations?user=jkEWQIYAAAAJ&hl=zh-CN), [Xin Duan](https://www.linkedin.com/in/xin-duan-4a188a212/?originalSubdomain=hk), and Xiangqiao Meng <br>
-*IEEE Transactions on Visualization and Computer Graphics (TVCG), 2024*
+*IEEE Transactions on Visualization and Computer Graphics 2025*
 
 <br>
 
