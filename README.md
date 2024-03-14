@@ -724,11 +724,6 @@ Year Full name of Journal or Conference
 
 ### Instance Level 
 
-**Image Colorization By Capsule Networks** <br>
-*Gökhan Özbulak* <br>
-2019 IEEE Conference on Computer Vision and Pattern Recognition Workshops
-[[Paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Ozbulak_Image_Colorization_by_Capsule_Networks_CVPRW_2019_paper.pdf)]
-
 **Instance-aware Image Colorization** <br>
 *Jheng-Wei Su, Hung-Kuo Chu, and Jia-Bin Huang* <br>
 2020 IEEE Conference on Computer Vision and Pattern Recognition
@@ -751,6 +746,11 @@ Year Full name of Journal or Conference
 *Jiaojiao Zhao, Li Liu, Cees G.M. Snoek, Jungong Han, and Ling Shao* <br>
 2018 British Machine Vision Conference 
 [[Paper](https://arxiv.org/abs/1808.01597)]
+
+**Image Colorization By Capsule Networks** <br>
+*Gökhan Özbulak* <br>
+2019 IEEE Conference on Computer Vision and Pattern Recognition Workshops
+[[Paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Ozbulak_Image_Colorization_by_Capsule_Networks_CVPRW_2019_paper.pdf)]
 
 **Pixelated Semantic Colorization** <br>
 *Jiaojiao Zhao, Jungong Han, Ling Shao, and Cees G. M. Snoek* <br>
