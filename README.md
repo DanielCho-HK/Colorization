@@ -43,8 +43,8 @@ Year Full name of Journal or Conference
 2022 Visual Informatics
 [[Paper](https://www.sciencedirect.com/science/article/pii/S2468502X22000389)]
 
-
-# Reference-based Methods
+# Computer Graphics for Colorization
+## Reference-based Methods
 
 **Transferring Color to Greyscale Images** <br>
 *Tomihisa Welsh, Michael Ashikhmin, and Klaus Mueller* <br>
@@ -227,7 +227,7 @@ Year Full name of Journal or Conference
 [[Paper](https://ieeexplore.ieee.org/document/10412677)]
 
 
-# Scribble-hint Methods
+## Scribble-hint Methods
 
 **Colorization using Optimization** <br>
 *Anat Levin, Dani Lischinski, and Yair Weiss* <br>
@@ -325,7 +325,7 @@ Year Full name of Journal or Conference
 [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Yun_iColoriT_Towards_Propagating_Local_Hints_to_the_Right_Region_in_WACV_2023_paper.pdf)]
 
 
-# Text-based Methods
+## Text-based Methods
 
 **Language-Based Image Editing with Recurrent Attentive Models** <br>
 *Jianbo Chen, Yelong Shen, Jianfeng Gao, Jingjing Liu, and Xiaodong Liu* <br>
@@ -378,7 +378,7 @@ Year Full name of Journal or Conference
 [[Paper](https://arxiv.org/abs/2305.15217)]
 
 
-# Palette-based Methods
+## Palette-based Methods
 
 **Affective Image Colorization** <br>
 *Xiao-Hui Wang, Jia Jia, Han-Yu Liao, and Lian-Hong Cai* <br>
@@ -391,7 +391,7 @@ Year Full name of Journal or Conference
 [[Paper](https://gfx.cs.princeton.edu/pubs/Chang_2015_PPR/index.php)]
 
 
-# Multimodel-hint Methods
+## Multimodel-hint Methods
 
 **Interactive Deep Colorization using Simultaneous Global and Local Inputs** <br>
 *Yi Xiao, Peiyao Zhou, Yan Zheng, and Chi-Sing Leung* <br>
@@ -408,8 +408,55 @@ Year Full name of Journal or Conference
 2022 ACM Transactions on Graphics
 [[Paper](https://dl.acm.org/doi/abs/10.1145/3550454.3555471)]
 
+## Diverse Colorization
 
-# Domain-Specific Colorization Methods
+**Automatic Image Colorization via Multimodal Predictions** <br>
+*Guillaume Charpiat, Matthias Hofmann, and Bernhard Schölkopf* <br>
+2008 European Conference on Computer Vision
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-540-88690-7_10)]
+
+**Pixel Recurrent Neural Networks** <br>
+*Aaron van den Oord, Nal Kalchbrenner, and Koray Kavukcuoglu* <br>
+2016 International Conference on Machine Learning
+[[Paper](https://proceedings.mlr.press/v48/oord16.pdf)]
+
+**PixColor: Pixel Recursive Colorization** <br>
+*Sergio Guadarrama, Ryan Dahl, David Bieber, Mohammad Norouzi, Jonathon Shlens, and Kevin Murphy* <br>
+2017 British Machine Vision Conference
+[[Paper](https://arxiv.org/abs/1705.07208)]
+
+**Probabilistic Image Colorization** <br>
+*Amelie Royer, Alexander Kolesnikov, and Christoph H. Lampert* <br>
+2017 British Machine Vision Conference
+[[Paper](https://arxiv.org/abs/1705.04258)]
+
+**Multiple Hypothesis Colorization and Its Application to Image Compression** <br>
+*Mohammad Haris Baig, and Lorenzo Torresani* <br>
+2017 Computer Vision and Image Understanding
+[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314217300267)]
+
+**Learning Diverse Image Colorization** <br>
+*Aditya Deshpande, Jiajun Lu, Mao-Chuang Yeh, Min Jin Chong, and David Forsyth* <br>
+2017 IEEE Conference on Computer Vision and Pattern Recognition
+[[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Deshpande_Learning_Diverse_Image_CVPR_2017_paper.pdf)]
+
+**Unsupervised Diverse Colorization via Generative Adversarial Networks** <br>
+*Yun Cao, Zhiming Zhou, Weinan Zhang, and Yong Yu* <br>
+2017 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases
+[[Paper](https://arxiv.org/abs/1702.06674)]
+
+**Structural Consistency and Controllability for Diverse Colorization** <br>
+*Safa Messaoud, David Forsyth, and Alexander G. Schwing* <br>
+2018 European Conference on Computer Vision
+[[Paper](https://openaccess.thecvf.com/content_ECCV_2018/html/Safa_Messaoud_Structural_Consistency_and_ECCV_2018_paper.html)]
+
+**Towards Vivid and Diverse Image Colorization with Generative Color Prior** <br>
+*Yanze Wu, Xintao Wang, Yu Li, Honglun Zhang, Xun Zhao, and Ying Shan* <br>
+2021 IEEE International Conference on Computer Vision
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_Towards_Vivid_and_Diverse_Image_Colorization_With_Generative_Color_Prior_ICCV_2021_paper.pdf)]
+
+
+## Domain-Specific Colorization Methods
 
 **Infrared Colorization Using Deep Convolutional Neural Networks** <br>
 *Matthias Limmer, and Hendrik P.A. Lensch* <br>
@@ -462,7 +509,7 @@ Year Full name of Journal or Conference
 [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Kikuchi_Generative_Colorization_of_Structured_Mobile_Web_Pages_WACV_2023_paper.pdf)]
 
 
-# Automatic Image Colorization Methods
+# Computer Vision for Colorization
 
 ## Consider Colorization as A Vision Task
 
@@ -523,54 +570,6 @@ Year Full name of Journal or Conference
 *Kelvin C.K. Chan, Xiangyu Xu, Xintao Wang, Jinwei Gu, and Chen Change Loy* <br>
 2023 IEEE Transactions on Pattern Analysis and Machine Intelligence
 [[Paper](https://ieeexplore.ieee.org/document/9808408)]
-
-
-## Diverse Colorization
-
-**Automatic Image Colorization via Multimodal Predictions** <br>
-*Guillaume Charpiat, Matthias Hofmann, and Bernhard Schölkopf* <br>
-2008 European Conference on Computer Vision
-[[Paper](https://link.springer.com/chapter/10.1007/978-3-540-88690-7_10)]
-
-**Pixel Recurrent Neural Networks** <br>
-*Aaron van den Oord, Nal Kalchbrenner, and Koray Kavukcuoglu* <br>
-2016 International Conference on Machine Learning
-[[Paper](https://proceedings.mlr.press/v48/oord16.pdf)]
-
-**PixColor: Pixel Recursive Colorization** <br>
-*Sergio Guadarrama, Ryan Dahl, David Bieber, Mohammad Norouzi, Jonathon Shlens, and Kevin Murphy* <br>
-2017 British Machine Vision Conference
-[[Paper](https://arxiv.org/abs/1705.07208)]
-
-**Probabilistic Image Colorization** <br>
-*Amelie Royer, Alexander Kolesnikov, and Christoph H. Lampert* <br>
-2017 British Machine Vision Conference
-[[Paper](https://arxiv.org/abs/1705.04258)]
-
-**Multiple Hypothesis Colorization and Its Application to Image Compression** <br>
-*Mohammad Haris Baig, and Lorenzo Torresani* <br>
-2017 Computer Vision and Image Understanding
-[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314217300267)]
-
-**Learning Diverse Image Colorization** <br>
-*Aditya Deshpande, Jiajun Lu, Mao-Chuang Yeh, Min Jin Chong, and David Forsyth* <br>
-2017 IEEE Conference on Computer Vision and Pattern Recognition
-[[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Deshpande_Learning_Diverse_Image_CVPR_2017_paper.pdf)]
-
-**Unsupervised Diverse Colorization via Generative Adversarial Networks** <br>
-*Yun Cao, Zhiming Zhou, Weinan Zhang, and Yong Yu* <br>
-2017 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases
-[[Paper](https://arxiv.org/abs/1702.06674)]
-
-**Structural Consistency and Controllability for Diverse Colorization** <br>
-*Safa Messaoud, David Forsyth, and Alexander G. Schwing* <br>
-2018 European Conference on Computer Vision
-[[Paper](https://openaccess.thecvf.com/content_ECCV_2018/html/Safa_Messaoud_Structural_Consistency_and_ECCV_2018_paper.html)]
-
-**Towards Vivid and Diverse Image Colorization with Generative Color Prior** <br>
-*Yanze Wu, Xintao Wang, Yu Li, Honglun Zhang, Xun Zhao, and Ying Shan* <br>
-2021 IEEE International Conference on Computer Vision
-[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_Towards_Vivid_and_Diverse_Image_Colorization_With_Generative_Color_Prior_ICCV_2021_paper.pdf)]
 
 
 ## Semantic Colorization 
@@ -639,7 +638,9 @@ Year Full name of Journal or Conference
 [[Paper](https://arxiv.org/abs/1901.10889)]
 
 
-## Deep Neural Network-based Structure
+## Network Structure
+
+### CNN-based Structure
 
 **Deep Colorization** <br>
 *Zezhou Cheng, Qingxiong Yang, and Bin Sheng* <br>
@@ -672,7 +673,7 @@ Year Full name of Journal or Conference
 [[Paper](https://ieeexplore.ieee.org/document/9188002)]
 
 
-## GAN-based Structure
+### GAN-based Structure
 
 **cGAN-based Manga Colorization Using a Single Training Image** <br>
 *Paulina Hensman, and Kiyoharu Aizawa* <br>
@@ -725,7 +726,7 @@ Year Full name of Journal or Conference
 [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136750268.pdf)]
 
 
-## Flow-based Structure
+### Flow-based Structure
 
 **Guided Image Generation with Conditional Invertible Neural Networks** <br>
 *Lynton Ardizzone, Carsten Lüth, Jakob Kruse, Carsten Rother, and Ullrich Köthe* <br>
@@ -733,7 +734,7 @@ Year Full name of Journal or Conference
 [[Paper](https://arxiv.org/abs/1907.02392)]
 
 
-## Transformer-based Structure
+### Transformer-based Structure
 
 **Colorization Transformer** <br>
 *Manoj Kumar, Dirk Weissenborn, and Nal Kalchbrenner* <br>
@@ -766,7 +767,7 @@ Year Full name of Journal or Conference
 [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Yun_iColoriT_Towards_Propagating_Local_Hints_to_the_Right_Region_in_WACV_2023_paper.pdf)]
 
 
-## Diffusion-based Structure
+### Diffusion-based Structure
 
 **Palette: Image-to-Image Diffusion Models** <br>
 *Chitwan Saharia, William Chan, Huiwen Chang, Chris A. Lee, Jonathan Ho, Tim Salimans, David J. Fleet, and Mohammad Norouzi* <br>
