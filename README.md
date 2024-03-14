@@ -17,11 +17,11 @@ This project is associated with our survey paper which comprehensively reviews t
 You are welcome to promote papers via pull request. <br>
 The process to submit a pull request:
 - a. Fork the project into your own repository.
-- b. Add the Title, Author, Full name of Journal or Conference, Paper link in `README.md` with the below format:
+- b. Add the Title, Author, Year Full name of Journal or Conference, Paper link in `README.md` with the below format:
 ```
 **Title** <br>
 *Author* <br>
-Full name of Journal or Conference 
+Year Full name of Journal or Conference 
 [[Paper](Paper link)]
 ```
 - c. Submit the pull request to this branch.
