@@ -7,7 +7,7 @@
 This project is associated with our survey paper, which comprehensively reviews the advancement of colorization technology in the past two decades using our proposed taxonomy.
 
 
-**State-of-the-Colorization: A Survey**  <br>
+**Computer-aided Colorization State-of-the-science: A Survey**  <br>
 [Yu Cao](https://scholar.google.com/citations?user=jkEWQIYAAAAJ&hl=zh-CN), [Xin Duan](https://www.linkedin.com/in/xin-duan-4a188a212/?originalSubdomain=hk), [Xiangqiao Meng](https://www.linkedin.com/in/xiangqiao-meng-33a41a23a/?originalSubdomain=hk), [P. Y. Mok](https://scholar.google.com.hk/citations?user=-83FFXcAAAAJ&hl=en), [Ping Li](https://scholar.google.com.hk/citations?user=mQ9YyHsAAAAJ&hl=en), and [Tong-Yee Lee](https://scholar.google.com.tw/citations?user=V3PTB98AAAAJ&hl=zh-TW) <br>
 This work is submitted.
 
