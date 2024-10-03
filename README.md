@@ -43,7 +43,7 @@ Year Full name of Journal or Conference
 2022 Visual Informatics
 [[Paper](https://www.sciencedirect.com/science/article/pii/S2468502X22000389)]
 
-# Computer Graphics for Colorization
+# Conditional Colorization
 ## Reference-based Methods
 
 **Transferring Color to Greyscale Images** <br>
@@ -629,7 +629,7 @@ Year Full name of Journal or Conference
 [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Kikuchi_Generative_Colorization_of_Structured_Mobile_Web_Pages_WACV_2023_paper.pdf)]
 
 
-# Computer Vision for Colorization
+# Unconditional Colorization
 
 ## Consider Colorization as A Vision Task
 
